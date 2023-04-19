@@ -1,0 +1,1609 @@
+,smiles,Family
+0,CC,n-alkanes
+6,CCC,n-alkanes
+12,CC(C)C,methylalkanes
+18,CCCC,n-alkanes
+24,CC1CCCC(C)(C)C1,alkylcyclohexanes
+30,CCCCC,n-alkanes
+36,CCC(C)C,methylalkanes
+42,CC(C)(C)C,dimethylalkanes
+48,CC1CC1,cycloalkanes
+54,CCCCCC,n-alkanes
+60,CCCC(C)C,methylalkanes
+66,CCC(C)CC,methylalkanes
+72,CCC(C)(C)C,dimethylalkanes
+78,CC(C)C(C)C,dimethylalkanes
+84,CC1CCC(CC1)C(C)C,alkylcyclohexanes
+90,CCCCCCC,n-alkanes
+96,CCCCC(C)C,methylalkanes
+102,CCCC(C)CC,methylalkanes
+108,CCC(CC)CC,other alkanes
+114,CCCC(C)(C)C,dimethylalkanes
+120,CCC(C)C(C)C,dimethylalkanes
+126,CC(C)CC(C)C,dimethylalkanes
+132,CCC(C)(C)CC,dimethylalkanes
+138,CC(C)C(C)(C)C,other alkanes
+144,CCCCCCC1CCCCC1,alkylcyclohexanes
+150,CCCCCCCC,n-alkanes
+156,CCCCCC(C)C,methylalkanes
+162,CCCCC(C)CC,methylalkanes
+168,CCCC(C)CCC,methylalkanes
+174,CCCC(CC)CC,other alkanes
+180,CCCCC(C)(C)C,dimethylalkanes
+186,CCCC(C)C(C)C,dimethylalkanes
+192,CCC(C)CC(C)C,dimethylalkanes
+198,CC(C)CCC(C)C,dimethylalkanes
+204,CCCC(C)(C)CC,dimethylalkanes
+210,CCC(C)C(C)CC,dimethylalkanes
+216,CCC(CC)C(C)C,other alkanes
+222,CCC(C)(CC)CC,other alkanes
+228,CCC(C)C(C)(C)C,other alkanes
+234,CC(C)CC(C)(C)C,other alkanes
+240,CCC(C)(C)C(C)C,other alkanes
+246,CC(C)C(C)C(C)C,other alkanes
+252,CC(C)(C)C(C)(C)C,other alkanes
+258,CCCCCCCCC,n-alkanes
+264,CC(C)CCC(C)(C)C,other alkanes
+270,CCC(C)CC(C)(C)CC,other alkanes
+276,CCC(C)(C)CC(C)C,other alkanes
+282,CCC(CC)(CC)CC,other alkanes
+288,CCC(C)(C)C(C)(C)C,other alkanes
+294,CC(C)C(C)C(C)(C)C,other alkanes
+300,CC(C)(C)CC(C)(C)C,other alkanes
+306,CC(C)C(C)(C)C(C)C,other alkanes
+312,CCCCCCCCCC,n-alkanes
+318,CCCC(C)(C)C(C)(C)C,other alkanes
+324,CC(C)(C)CCC(C)(C)C,other alkanes
+330,CC(C)CC1CCCCC1,alkylcyclohexanes
+336,CCCCCCCCCCC,n-alkanes
+342,CCCCCCCCCCCC,n-alkanes
+348,CCCCCCCCCCCCC,n-alkanes
+354,CCCCCCCCCCCCCC,n-alkanes
+360,CCCCCCCCCCCCCCC,n-alkanes
+366,CCCCCCCCCCCCCCCC,n-alkanes
+372,CCCCCCCCCCCCCCCCC,n-alkanes
+378,CCCCCCCCCCCCCCCCCC,n-alkanes
+384,CCCCCCCCCCCCCCCCCCC,n-alkanes
+390,CCCCCCC(C)(C)C,dimethylalkanes
+396,CCCCCCCCCCCCCCCCCCCC,n-alkanes
+402,CCCCCCCCCCCCCCCCCCCCC,n-alkanes
+408,CCCCCCCCCCCCCCCCCCCCCC,n-alkanes
+414,CCCCCCCCCCCCCCCCCCCCCCC,n-alkanes
+420,CCCCCCCCCCCCCCCCCCCCCCCC,n-alkanes
+426,CCCCCCCCCCCCCCCCCCCCCCCCC,n-alkanes
+432,CCCCCCCCCCCCCCCCCCCCCCCCCC,n-alkanes
+438,CCCCCCCCCCCCCCCCCCCCCCCCCCC,n-alkanes
+444,CCCCCCCCCCCCCCCCCCCCCCCCCCCC,n-alkanes
+450,CCCCCCCCCCCCCCCCCCCCCCCCCCCCC,n-alkanes
+456,CCCCCCC(C)CC,methylalkanes
+462,CCCCCCCC(C)C,methylalkanes
+468,CCCCCC(C)CCC,methylalkanes
+474,CCCCC(C)CCCC,methylalkanes
+480,CCCCCCC(C)C,methylalkanes
+486,CCCCCC(C)CC,methylalkanes
+492,CCCCC(C)CCC,methylalkanes
+498,CCCCC(CC)CC,other alkanes
+504,CCCCCC(C)(C)C,dimethylalkanes
+510,CCCCCCCC(C)CC,methylalkanes
+516,CCCCCCCCCC(C)CC,methylalkanes
+522,CCCCCCCCCCC(C)CC,methylalkanes
+528,CCCCCCCCC(C)CC,methylalkanes
+534,C1CC1,cycloalkanes
+540,C1CCC1,cycloalkanes
+546,C1CCCC1,cycloalkanes
+552,CC1(C)CCCC1,alkylcyclopentanes
+558,C[C@@H]1CCC[C@@H]1C,alkylcyclopentanes
+564,C[C@@H]1CCC[C@H]1C,alkylcyclopentanes
+570,C[C@H]1CC[C@@H](C)C1,alkylcyclopentanes
+576,C[C@H]1CC[C@H](C)C1,alkylcyclopentanes
+582,CC(C)C1CCCC1,alkylcyclopentanes
+588,CCC1(C)CCCC1,alkylcyclopentanes
+594,CC1CCC(C)(C)C1,alkylcyclopentanes
+600,CC1CCCC1(C)C,alkylcyclopentanes
+606,CCCCCCCCC(C)C,methylalkanes
+612,CCCCCCCCCC(C)C,methylalkanes
+618,CCCCCCCCCCC(C)C,methylalkanes
+624,CCCCCCCCCCCC(C)C,methylalkanes
+630,CC[C@H]1CC[C@H](C)C1,alkylcyclopentanes
+636,CC[C@H]1CC[C@@H](C)C1,alkylcyclopentanes
+642,CCCCCCCCC1CCCCC1,alkylcyclohexanes
+648,C1CCCCC1,cycloalkanes
+654,CC1CCCCC1,alkylcyclohexanes
+660,CCC1CCCCC1,alkylcyclohexanes
+666,CC1(C)CCCCC1,alkylcyclohexanes
+672,C[C@@H]1CCCC[C@@H]1C,alkylcyclohexanes
+678,C[C@@H]1CCCC[C@H]1C,alkylcyclohexanes
+684,C[C@H]1CCC[C@@H](C)C1,alkylcyclohexanes
+690,C[C@H]1CCC[C@H](C)C1,alkylcyclohexanes
+696,C[C@@H]1CC[C@H](C)CC1,alkylcyclohexanes
+702,C[C@@H]1CC[C@@H](C)CC1,alkylcyclohexanes
+708,CC1CC(C)CC(C)C1,alkylcyclohexanes
+714,CCCC1CCCCC1,alkylcyclohexanes
+720,CC(C)C1CCCCC1,alkylcyclohexanes
+726,CC1CCC(C)C(C)C1C,alkylcyclohexanes
+732,CCCCC1CCCCC1,alkylcyclohexanes
+738,C1CC[C@@H]2CCCC[C@@H]2C1,multiring cycloalkanes
+744,C1CC[C@@H]2CCCC[C@H]2C1,multiring cycloalkanes
+750,C1CCC(CC1)C2CCCCC2,multiring cycloalkanes
+756,CCC1(CC)CCCCC1,alkylcyclohexanes
+762,CC(C(C)c1ccccc1)c2ccccc2,diphenyl/polyaromatics
+768,CCCCCCCCCCC1CCCCC1,alkylcyclohexanes
+774,C1CCCCCC1,cycloalkanes
+780,C1CCCCCCC1,cycloalkanes
+786,CCCCC(C)C(C)C,dimethylalkanes
+792,CCCCCCC(C)C(C)C,dimethylalkanes
+798,CCCCCCCC(C)C(C)C,dimethylalkanes
+804,CCCCCCCCC(C)C(C)C,dimethylalkanes
+810,CCCCCCCCCC(C)C(C)C,dimethylalkanes
+816,CC1CCC1,cycloalkanes
+822,CCCC(C)(C)C(C)C,other alkanes
+828,CCCCCCCC1CCCCC1,alkylcyclohexanes
+834,CCC(C)CCCC(C)CCCC(C)C,other alkanes
+840,CCC1(CC)CCCC1,alkylcyclopentanes
+846,CC(C)CC1CCCC1,alkylcyclopentanes
+852,C1CCCCCCCCC1,cycloalkanes
+858,CCCCCC1CCCC1,alkylcyclopentanes
+864,CCCCCCC1CCCC1,alkylcyclopentanes
+870,CC(C)CCCC(C)C,dimethylalkanes
+876,CCCC(C)C(C)CC,other alkanes
+882,CCCC(C)C(C)(C)C,other alkanes
+888,CCC(C)CC(C)(C)C,other alkanes
+894,CC[C@@H]1CCC[C@H]1C,alkylcyclopentanes
+900,C[C@H]1C[C@H](C)[C@@H](C)C1,alkylcyclopentanes
+906,CC(C)CC(C)C(C)C,other alkanes
+912,CCC(C)C(C)C(C)C,other alkanes
+918,CCCC(C)CC(C)C,dimethylalkanes
+924,CCC(C)CCC(C)C,dimethylalkanes
+930,CCC(CC)C(C)(C)C,other alkanes
+936,CCCCCC(C)(C)CC,other alkanes
+942,CCC(C(C)C)C(C)C,other alkanes
+948,CCC(C)CCC(C)CC,other alkanes
+954,C=C,1-alkenes
+960,CC=C,1-alkenes
+966,CCC=C,1-alkenes
+972,C\C=C/C,"2,3,4-alkenes"
+978,C\C=C\C,"2,3,4-alkenes"
+984,CC(C)=C,methylalkenes
+990,CCCC=C,1-alkenes
+996,CC\C=C/C,"2,3,4-alkenes"
+1002,CC/C=C/C,"2,3,4-alkenes"
+1008,CCC(C)=C,methylalkenes
+1014,CC(C)C=C,methylalkenes
+1020,CC=C(C)C,methylalkenes
+1026,CCCCC=C,1-alkenes
+1032,CC\C=C/CC,"2,3,4-alkenes"
+1038,CC\C=C\CC,"2,3,4-alkenes"
+1044,CCCC(C)=C,methylalkenes
+1050,CCC(C)C=C,methylalkenes
+1056,CC(C)CC=C,methylalkenes
+1062,CCC=C(C)C,methylalkenes
+1068,CC\C(C)=C/C,methylalkenes
+1074,CCC(C)CC=C,methylalkenes
+1080,C\C=C/C(C)C,methylalkenes
+1086,C/C=C/C(C)C,methylalkenes
+1092,CCC(=C)CC,ethyl & higher alkenes
+1098,CC(C)C(C)=C,ethyl & higher alkenes
+1104,CC(C)(C)C=C,ethyl & higher alkenes
+1110,CC(C)=C(C)C,ethyl & higher alkenes
+1116,CCCC(=C)CC,ethyl & higher alkenes
+1122,CCCCCC=C,1-alkenes
+1128,CCC/C=C/CC,"2,3,4-alkenes"
+1134,CCCCC(C)=C,methylalkenes
+1140,CCC(CC)C=C,ethyl & higher alkenes
+1146,CCCC(C)C=C,methylalkenes
+1152,CCCC(CC)C=C,ethyl & higher alkenes
+1158,CCCC(C)CC=C,methylalkenes
+1164,C=CC1CCCCC1,other alkenes
+1170,CCC1=CCCCC1,cycloalkenes
+1176,CC(=C)C(C)(C)C,ethyl & higher alkenes
+1182,CCC\C=C/CC,"2,3,4-alkenes"
+1188,CCCCCCC=C,1-alkenes
+1194,CC1=CCCCC1,cycloalkenes
+1200,C=CCCCCC=C,dialkenes
+1206,CC(=C)CC(C)(C)C,ethyl & higher alkenes
+1212,CC(C)=CC(C)(C)C,ethyl & higher alkenes
+1218,CCCCC(=C)CC,ethyl & higher alkenes
+1224,CCCCCCCC=C,1-alkenes
+1230,CCCCCCCCC=C,1-alkenes
+1236,CCCCCCCCCC=C,1-alkenes
+1242,CCCCCCCCCCC=C,1-alkenes
+1248,CCCCCCCCCCCC=C,1-alkenes
+1254,CCCCCCCCCCCCC=C,1-alkenes
+1260,CCCCCCCCCCCCCC=C,1-alkenes
+1266,CCCCCCCCCCCCCCC=C,1-alkenes
+1272,CCCCCCCCCCCCCCCCC=C,1-alkenes
+1278,CC(C)CCCC=C,methylalkenes
+1284,C1CC=CC1,cycloalkenes
+1290,C1CCC=CC1,cycloalkenes
+1296,C1CCC=CCC1,cycloalkenes
+1302,C1CCCC=CCC1,cycloalkenes
+1308,CC\C=C(C)/CC,methylalkenes
+1314,CCCCC\C=C/C,"2,3,4-alkenes"
+1320,CCCC/C=C/CC,"2,3,4-alkenes"
+1326,CCC\C=C/CCC,"2,3,4-alkenes"
+1332,CCC\C=C\CCC,"2,3,4-alkenes"
+1338,CCCC\C=C/CC,"2,3,4-alkenes"
+1344,CCCCCCCCCCCCCCCC=C,1-alkenes
+1350,CCCCCCCCCCCCCCCCCC=C,1-alkenes
+1356,CCCCCCCCCCCCCCCCCCC=C,1-alkenes
+1362,CC1=CCCC1,cycloalkenes
+1368,CC1CCC=C1,cycloalkenes
+1374,CC1CC=CC1,cycloalkenes
+1380,CCCC(C)C(C)=C,ethyl & higher alkenes
+1386,CC(=C)C1CCC(=CC1)C,terpenes
+1392,CC=CC1=CCCCC1,cycloalkenes
+1398,C=C1CCCC1,other alkenes
+1404,CCC1=CCCC1,cycloalkenes
+1410,CCC1CCC=C1,cycloalkenes
+1416,[CH2]=[C]=[CH2],dialkenes
+1422,C[CH]=[C]=[CH2],dialkenes
+1428,C=CC=C,dialkenes
+1434,CC[CH]=[C]=[CH2],dialkenes
+1440,C=CCC=C,dialkenes
+1446,C[CH]=[C]=[CH]C,dialkenes
+1452,CC(=C)C=C,dialkenes
+1458,C=CCCC=C,dialkenes
+1464,C[C](C)=[C]=[CH2],dialkenes
+1470,CC1=CC=CC1,dialkenes
+1476,CC=CCC=C,dialkenes
+1482,C\C=C\C=C\C,dialkenes
+1488,C1C=CC=C1,dialkenes
+1494,C1C=CC2C3CC(C=C3)C12,dialkenes
+1500,CC(C)C1CC=C(C)C=C1,terpenes
+1506,CC(C)C1CCC(=C)C=C1,terpenes
+1512,CC(=C)C(C)=C,dialkenes
+1518,C\C=C/C=C/C,dialkenes
+1524,C1CC=CCCC=CCCC=C1,dialkenes
+1530,CC(=C)CCC(C)=C,dialkenes
+1536,CC(C)=CC=C(C)C,dialkenes
+1542,C1CC=CC=C1,dialkenes
+1548,C1C=CCC=C1,dialkenes
+1554,C1CC=CCCC=C1,dialkenes
+1560,CC/C=C/C=C,dialkenes
+1566,C/C=C/C(C)=C,dialkenes
+1572,C=CCCCCCCC=C,dialkenes
+1578,C1=CC=CC=CC=C1,cycloalkenes
+1584,CC(C)CC(C)=C,ethyl & higher alkenes
+1590,CC(C)C=C(C)C,ethyl & higher alkenes
+1596,CC#C,alkynes
+1602,CCC#C,alkynes
+1608,CC#CC,alkynes
+1614,CCCC#C,alkynes
+1620,CCC#CCC,alkynes
+1626,CCCC#CC,alkynes
+1632,CC(C)(C)C#C,alkynes
+1638,CCC#CC,alkynes
+1644,CCCCC#C,alkynes
+1650,CC(=C)C#C,alkynes
+1656,CCCCCCC#C,alkynes
+1662,C=CC#C,alkynes
+1668,CC(C)C#C,alkynes
+1674,CC#CC=C,alkynes
+1680,C=CCC#C,alkynes
+1686,CCCCCCCC#C,alkynes
+1692,CCCCCCCCC#C,alkynes
+1698,c1ccccc1,n-alkylbenzenes
+1704,Cc1ccccc1,n-alkylbenzenes
+1710,CC1CCc2ccccc12,cyclobenzenes
+1716,CCc1ccccc1,n-alkylbenzenes
+1722,Cc1ccccc1C,other alkylbenzenes
+1728,Cc1cccc(C)c1,other alkylbenzenes
+1734,Cc1ccc(C)cc1,other alkylbenzenes
+1740,CCCc1ccccc1,n-alkylbenzenes
+1746,CC(C)c1ccccc1,other alkylbenzenes
+1752,CCc1ccccc1C,other alkylbenzenes
+1758,CCc1cccc(C)c1,other alkylbenzenes
+1764,CCc1ccc(C)cc1,other alkylbenzenes
+1770,Cc1cccc(C)c1C,other alkylbenzenes
+1776,Cc1ccc(C)c(C)c1,other alkylbenzenes
+1782,Cc1cc(C)cc(C)c1,other alkylbenzenes
+1788,CC(C)c1cc(C)cc(c1)C(C)C,other alkylbenzenes
+1794,CCCCc1ccccc1,n-alkylbenzenes
+1800,CC(C)Cc1ccccc1,other alkylbenzenes
+1806,CCC(C)c1ccccc1,other alkylbenzenes
+1812,CC(C)(C)c1ccccc1,other alkylbenzenes
+1818,CC(C)c1ccccc1C,other alkylbenzenes
+1824,CC(C)c1cccc(C)c1,other alkylbenzenes
+1830,CC(C)c1ccc(C)cc1,other alkylbenzenes
+1836,CCc1ccccc1CC,other alkylbenzenes
+1842,CCc1cccc(CC)c1,other alkylbenzenes
+1848,CCc1ccc(CC)cc1,other alkylbenzenes
+1854,CC(C)c1ccc(cc1)c2ccc(cc2)C(C)C,diphenyl/polyaromatics
+1860,c1ccc(cc1)c2ccccc2c3ccccc3c4ccccc4,diphenyl/polyaromatics
+1866,Cc1ccc(C)c(C)c1C,other alkylbenzenes
+1872,Cc1cc(C)c(C)c(C)c1,other alkylbenzenes
+1878,Cc1cc(C)c(C)cc1C,other alkylbenzenes
+1884,CCc1ccc(cc1)C(C)(C)C,other alkylbenzenes
+1890,CC(C)(C)c1ccc(cc1)C(C)(C)C,other alkylbenzenes
+1896,CC(C)c1cc(cc(c1)C(C)C)C(C)C,other alkylbenzenes
+1902,Cc1cc(C)c(C)c(C)c1C,other alkylbenzenes
+1908,CC(C)c1cccc(c1)C(C)C,other alkylbenzenes
+1914,CC(C)c1ccc(cc1)C(C)C,other alkylbenzenes
+1920,CCc1ccc(CC)c(CC)c1,other alkylbenzenes
+1926,Cc1c(C)c(C)c(C)c(C)c1C,other alkylbenzenes
+1932,CCc1cccc(CC)c1CC,other alkylbenzenes
+1938,CC1CCc2cc(C)ccc2C1,cyclobenzenes
+1944,CCc1cc(CC)c(CC)c(CC)c1CC,other alkylbenzenes
+1950,CCc1c(CC)c(CC)c(CC)c(CC)c1CC,other alkylbenzenes
+1956,c1ccc(cc1)c2ccccc2,diphenyl/polyaromatics
+1962,c1ccc(cc1)c2ccc(cc2)c3ccccc3,diphenyl/polyaromatics
+1968,c1ccc(cc1)c2cccc(c2)c3ccccc3,diphenyl/polyaromatics
+1974,c1ccc(cc1)c2ccccc2c3ccccc3,diphenyl/polyaromatics
+1980,CC(c1ccccc1)c2ccccc2,diphenyl/polyaromatics
+1986,C(c1ccccc1)c2ccccc2,diphenyl/polyaromatics
+1992,C(Cc1ccccc1)c2ccccc2,diphenyl/polyaromatics
+1998,c1ccc(cc1)C(c2ccccc2)c3ccccc3,diphenyl/polyaromatics
+2004,CCCCCc1ccccc1,n-alkylbenzenes
+2010,CCCCCCc1ccccc1,n-alkylbenzenes
+2016,CCCCCCCCc1ccccc1,n-alkylbenzenes
+2022,CCc1cc(C)cc(C)c1,other alkylbenzenes
+2028,CCc1c(C)cccc1C,other alkylbenzenes
+2034,CCc1cc(C)ccc1C,other alkylbenzenes
+2040,CCc1ccc(C)cc1C,other alkylbenzenes
+2046,CCc1ccc(C)c(C)c1,other alkylbenzenes
+2052,CCc1cccc(C)c1C,other alkylbenzenes
+2058,CCCc1ccccc1C,other alkylbenzenes
+2064,CCCc1cccc(C)c1,other alkylbenzenes
+2070,CCCc1ccc(C)cc1,other alkylbenzenes
+2076,c1ccc(cc1)C(C(c2ccccc2)c3ccccc3)c4ccccc4,diphenyl/polyaromatics
+2082,CCc1ccc(CCc2ccccc2)cc1,diphenyl/polyaromatics
+2088,CCCc1cccc(C)c1C,other alkylbenzenes
+2094,CCc1ccc(C)c(C)c1C,other alkylbenzenes
+2100,CCc1c(C)ccc(C)c1C,other alkylbenzenes
+2106,CCc1cc(C)c(C)cc1C,other alkylbenzenes
+2112,CC(C)(c1ccccc1)c2ccccc2,diphenyl/polyaromatics
+2118,CC(C)c1ccc(C)c(c1)C(C)C,other alkylbenzenes
+2124,CC(C)c1cccc(C(C)C)c1C,other alkylbenzenes
+2130,C=Cc1ccccc1,other monoaromatics
+2136,Cc1ccccc1C=C,other monoaromatics
+2142,Cc1cccc(C=C)c1,other monoaromatics
+2148,CC=CCCc1ccccc1C,other monoaromatics
+2154,CCc1cccc(C=C)c1,other monoaromatics
+2160,CCc1ccc(C=C)cc1,other monoaromatics
+2166,CC(C)c1ccccc1C(C)C,other alkylbenzenes
+2172,CC(C)c1ccc(C(C)C)c(c1)C(C)C,other alkylbenzenes
+2178,Cc1ccc(C=C)cc1,other monoaromatics
+2184,CC(=C)c1ccccc1,other monoaromatics
+2190,C=Cc1cccc(C=C)c1,other monoaromatics
+2196,C#Cc1ccccc1,other monoaromatics
+2202,C\C=C/c1ccccc1,other monoaromatics
+2208,C/C=C/c1ccccc1,other monoaromatics
+2214,CC1(C)CCc2ccccc12,cyclobenzenes
+2220,CCC1CCc2ccccc12,cyclobenzenes
+2226,Cc1ccc(cc1)C(C)(C)C,other alkylbenzenes
+2232,CC1CCC(C)c2ccccc12,cyclobenzenes
+2238,Cc1cc(C)cc(c1)C(C)(C)C,other alkylbenzenes
+2244,C(Cc1ccccc1)Cc2ccccc2,cyclobenzenes
+2250,CCC(C)Cc1ccccc1,other alkylbenzenes
+2256,c1ccc2ccccc2c1,naphthalenes
+2262,Cc1cccc2ccccc12,naphthalenes
+2268,Cc1ccc2ccccc2c1,naphthalenes
+2274,CCc1cccc2ccccc12,naphthalenes
+2280,C1CCc2ccccc2C1,cyclobenzenes
+2286,Cc1ccc2cc(C)ccc2c1,naphthalenes
+2292,c1ccc(cc1)c2cccc3ccccc23,naphthalenes
+2298,CCCCc1cccc2ccccc12,naphthalenes
+2304,CCCCCCc1cccc2ccccc12,naphthalenes
+2310,Cc1ccc2ccc(C)cc2c1,naphthalenes
+2316,c1ccc2c(c1)c3cccc4cccc2c34,other condensed rings
+2322,CCCc1cccc2ccccc12,naphthalenes
+2328,CCc1ccc2ccccc2c1,naphthalenes
+2334,CC1C=Cc2ccccc12,cyclobenzenes
+2340,CC1=Cc2ccccc2C1,cyclobenzenes
+2346,c1ccc(cc1)\C=C\c2ccccc2,diphenyl/polyaromatics
+2352,C1c2ccccc2c3ccccc13,other condensed rings
+2358,c1ccc2c(c1)c3ccccc3c4ccccc24,other condensed rings
+2364,C1C=Cc2ccccc12,cyclobenzenes
+2370,c1ccc2cc3ccccc3cc2c1,other condensed rings
+2376,c1ccc2c(c1)ccc3ccccc23,other condensed rings
+2382,c1ccc2c(c1)ccc3c4ccccc4ccc23,other condensed rings
+2388,c1cc2ccc3cccc4ccc(c1)c2c34,other condensed rings
+2394,C1Cc2cccc3cccc1c23,other condensed rings
+2400,c1cc2cccc3C=Cc(c1)c23,other condensed rings
+2406,C=CC12CCC(C1)C=C2,other hydrocarbon rings
+2412,c1ccc2c(c1)cc3ccc4cccc5ccc2c3c45,other condensed rings
+2418,CC12CC3CC(C1)CC(C)(C3)C2,other hydrocarbon rings
+2424,Cc1cccc2ccc3ccccc3c12,other condensed rings
+2430,CC12CCC(C1)C=C2,other hydrocarbon rings
+2436,CCC12CCC(C1)C=C2,other hydrocarbon rings
+2442,C1Cc2ccccc2C1,cyclobenzenes
+2448,CC(C)C1=CC=C(C)CC1,terpenes
+2454,CC(C)C1=CCC(=CC1)C,terpenes
+2460,C1CC2CC1C=C2,other hydrocarbon rings
+2466,CC=C1CC2CC1C=C2,other hydrocarbon rings
+2472,c1ccc2cc3c(ccc4ccccc34)cc2c1,other condensed rings
+2478,c1ccc2cc3cc4ccccc4cc3cc2c1,other condensed rings
+2484,CCC(C)C1CCCCC1,alkylcyclohexanes
+2490,CC1CCCc2ccccc12,cyclobenzenes
+2496,CCC1CCCc2ccccc12,cyclobenzenes
+2502,c1ccc2c(c1)cc3c4ccccc4c5cccc2c35,other condensed rings
+2508,CC1(C)C2CCC(C2)C1=C,terpenes
+2514,CC1=CCC2CC1C2(C)C,terpenes
+2520,CC1(C)C2CCC(=C)C1C2,terpenes
+2526,CC(O)CC(C)=O,"other polyfunctional c, h, o"
+2532,CCOC(C)CO,"other polyfunctional c, h, o"
+2537,COc1cc(CC=C)ccc1O,"other polyfunctional c, h, o"
+2543,C=O,aldehydes
+2547,CC=O,aldehydes
+2553,CCC=O,aldehydes
+2559,O=CC1CCC=CC1,aldehydes
+2565,CCCC=O,aldehydes
+2571,CC(C)C=O,aldehydes
+2577,CCCCC=O,aldehydes
+2583,CCCCCCC=O,aldehydes
+2589,CCCCCC=O,aldehydes
+2595,CCCCCCCC=O,aldehydes
+2601,CCCCCCCCC=O,aldehydes
+2607,O=CC1CCCCC1,aldehydes
+2613,CCCCC(CC)C=O,aldehydes
+2619,CCCCC(C)C=O,aldehydes
+2625,CCCC(C)CC=O,aldehydes
+2631,CCC=C(C)C=O,aldehydes
+2637,CCCC=C(CC)C=O,aldehydes
+2643,CCCCCCCCCC=O,aldehydes
+2649,CCCCCCCCCCC=O,aldehydes
+2655,CCCCCCCCCCCC=O,aldehydes
+2661,CCCCCCCCCCCCC=O,aldehydes
+2667,CCC(C)C=O,aldehydes
+2673,CC(C)CC=O,aldehydes
+2679,OCC=O,"other polyfunctional c, h, o"
+2685,C=CC=O,aldehydes
+2691,C/C=C/C=O,aldehydes
+2697,CC(=C)C=O,aldehydes
+2703,Cc1ccccc1C=O,aldehydes
+2708,Cc1ccc(C=O)cc1,aldehydes
+2713,O=Cc1ccccc1,aldehydes
+2718,Oc1ccccc1C=O,"other polyfunctional c, h, o"
+2723,Oc1ccc(C=O)cc1,"other polyfunctional c, h, o"
+2728,O=Cc1ccc(C=O)cc1,aldehydes
+2733,Cc1cccc(C=O)c1,aldehydes
+2738,CCCCCC(C)C=O,aldehydes
+2744,CC1OC(C)OC(C)O1,other ethers/diethers
+2748,CC(C)=O,ketones
+2754,CCC(C)=O,ketones
+2760,CCC(=O)CC,ketones
+2766,CC(C)CC(C)=O,ketones
+2772,CCC(C)C(C)=O,ketones
+2778,CC(=O)CCC=C,ketones
+2784,CCCCC(=O)CC,ketones
+2790,CCCC(=O)CCC,ketones
+2796,CCCC(=O)CC,ketones
+2802,CCCC(C)=O,ketones
+2808,CC(C)C(C)=O,ketones
+2814,CCCCC(C)=O,ketones
+2820,CCCCCC(C)=O,ketones
+2826,CC(C)CCC(C)=O,ketones
+2832,CC(=O)C(C)(C)C,ketones
+2838,CC(C)CC(=O)CC(C)C,ketones
+2844,CC(C)C(=O)C(C)C,ketones
+2848,O=C1CCCN1,"polyfunctional c, h, o, n"
+2853,CN1CCCC1=O,"polyfunctional c, h, o, n"
+2856,CCC(=O)CCC(C)C,ketones
+2862,CCCCC(=O)CCCC,ketones
+2868,CCCCCCCC(C)=O,ketones
+2874,O=C1c2ccccc2C(=O)c3ccccc13,ketones
+2878,CC(=O)CC(C)=O,ketones
+2884,CC1=CC(=O)CC(C)(C)C1,ketones
+2890,O=C1CCCC1,ketones
+2896,O=C1CCCCC1,ketones
+2902,CCCCCCC(C)=O,ketones
+2908,CC(=O)c1ccccc1,ketones
+2914,O=C1CCO1,other saturated aliphatic esters
+2920,O=C1CCCO1,other saturated aliphatic esters
+2926,CC1CCC(=O)O1,other saturated aliphatic esters
+2932,CCC(=O)C(C)C,ketones
+2938,CC(=C)C(C)=O,ketones
+2944,O=C1CCCCC1C2CCCCC2,ketones
+2950,C=C1CC(=O)O1,ketones
+2956,C=C=O,ketones
+2958,CO,n-alcohols
+2963,CCO,n-alcohols
+2969,CCCO,n-alcohols
+2975,CC(C)O,other aliphatic alcohols
+2981,CCCCO,n-alcohols
+2987,CC(C)CO,other aliphatic alcohols
+2993,CCC(C)O,other aliphatic alcohols
+2999,CC(C)(C)O,other aliphatic alcohols
+3005,CCCCCO,n-alcohols
+3011,CCCC(C)O,other aliphatic alcohols
+3017,CCC(C)(C)O,other aliphatic alcohols
+3023,CCC(C)CO,other aliphatic alcohols
+3029,CC(C)(C)CO,other aliphatic alcohols
+3035,CCCCCCO,n-alcohols
+3041,CCCCC(C)O,other aliphatic alcohols
+3047,CCCC(O)CC,other aliphatic alcohols
+3053,CCCC(C)CO,other aliphatic alcohols
+3059,CCC(C)CCO,other aliphatic alcohols
+3065,CCC(C)(O)CC,other aliphatic alcohols
+3071,CCC(O)CC,other aliphatic alcohols
+3077,CCCCC(CC)CO,other aliphatic alcohols
+3083,CCCCC(C)CO,other aliphatic alcohols
+3089,CC(C)CCO,other aliphatic alcohols
+3095,CC(C)C(C)O,other aliphatic alcohols
+3101,CCCCCCCO,n-alcohols
+3107,CCCCCC(C)O,other aliphatic alcohols
+3113,CCCCC(O)CC,other aliphatic alcohols
+3119,CC(C)CCCCO,other aliphatic alcohols
+3125,CC(C)CC(C)O,other aliphatic alcohols
+3131,CCCCCCCCO,n-alcohols
+3137,CCCCCCC(C)O,other aliphatic alcohols
+3143,CCCCCCCCCO,n-alcohols
+3149,CCCCCCCC(C)O,other aliphatic alcohols
+3155,CCCCCCCCCCO,n-alcohols
+3161,CCCCCCCCCCCO,n-alcohols
+3167,CCCCCCCCCCCCO,n-alcohols
+3173,CCCCCCCCCCCCCO,n-alcohols
+3179,CCCCCCCCCCCCCCO,n-alcohols
+3185,CCC(CC)CO,other aliphatic alcohols
+3191,CCCCCCCCCCCCCCCCCCCCO,n-alcohols
+3197,CCCCCC(C)CO,other aliphatic alcohols
+3203,OC1CCCCC1,cycloaliphatic alcohols
+3209,CC1(O)CCCCC1,cycloaliphatic alcohols
+3215,C[C@H]1CCCC[C@H]1O,cycloaliphatic alcohols
+3221,C[C@@H]1CCCC[C@H]1O,cycloaliphatic alcohols
+3227,C[C@@H]1CCC[C@H](O)C1,cycloaliphatic alcohols
+3233,C[C@H]1CCC[C@H](O)C1,cycloaliphatic alcohols
+3239,C[C@H]1CC[C@@H](O)CC1,cycloaliphatic alcohols
+3245,C[C@@H]1CC[C@@H](O)CC1,cycloaliphatic alcohols
+3251,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,cycloaliphatic alcohols
+3257,CC1=CCC(CC1)C(C)(C)O,other aliphatic alcohols
+3263,OCC1CCCO1,"other polyfunctional c, h, o"
+3267,OCC=C,other aliphatic alcohols
+3273,CC(C)(O)c1ccccc1,aromatic alcohols
+3279,Cc1cccc(O)c1C,aromatic alcohols
+3285,Cc1ccc(O)c(C)c1,aromatic alcohols
+3291,Cc1ccc(C)c(O)c1,aromatic alcohols
+3297,CC(O)c1ccc(C)cc1,aromatic alcohols
+3303,Cc1cccc(C)c1O,aromatic alcohols
+3309,Cc1ccc(O)cc1C,aromatic alcohols
+3315,Cc1cc(C)cc(O)c1,aromatic alcohols
+3321,OCC#C,other aliphatic alcohols
+3327,OCc1ccccc1,aromatic alcohols
+3333,Cc1ccccc1O,aromatic alcohols
+3339,Cc1cccc(O)c1,aromatic alcohols
+3345,Cc1ccc(O)cc1,aromatic alcohols
+3351,CCc1ccccc1O,aromatic alcohols
+3357,Oc1ccc(O)cc1,polyols
+3363,CCc1ccc(O)cc1,aromatic alcohols
+3369,CC(C)(C)c1ccc(O)cc1,aromatic alcohols
+3375,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2,polyols
+3381,CCCCCCCCCc1ccccc1O,aromatic alcohols
+3387,OCCO,polyols
+3393,OCCOCCO,polyols
+3398,OCCOCCOCCO,polyols
+3403,OCCOCCOCCOCCO,polyols
+3408,CC(C)(C)OCC(O)COC(C)(C)C,"other polyfunctional c, h, o"
+3413,CC(O)COC(C)COC(C)COC(C)CO,polyols
+3418,CC1(C)C(O)C(C)(C)C1O,polyols
+3424,CC(O)CO,polyols
+3430,OCCCO,polyols
+3436,CC(O)COC(C)CO,polyols
+3441,CC(C)(CO)CO,polyols
+3447,OCC#CCO,polyols
+3453,CC(O)COC(C)COC(C)CO,polyols
+3458,CC(O)CCCO,polyols
+3464,CCCCC(CC)(CO)CO,polyols
+3470,CC(CO)CO,polyols
+3476,OCCCCCCO,polyols
+3482,CCCC(O)CO,polyols
+3488,CC(O)CCCCO,polyols
+3494,CC(C)(C)c1ccc(O)c(O)c1,polyols
+3500,CC(C)C(O)C(C)(C)CO,polyols
+3506,CCC(O)C(C)CO,polyols
+3512,OC\C=C/CO,polyols
+3518,OCCCCO,polyols
+3524,OCCCCCO,polyols
+3536,Oc1ccccc1O,polyols
+3542,Oc1cccc(O)c1,polyols
+3548,OC=O,n-aliphatic acids
+3552,CC(O)=O,n-aliphatic acids
+3558,CCC(O)=O,n-aliphatic acids
+3564,CCCCCCCCCC(O)=O,n-aliphatic acids
+3570,CCCC(O)=O,n-aliphatic acids
+3576,CCC(C)C(O)=O,other aliphatic acids
+3582,CCCCC(O)=O,n-aliphatic acids
+3588,CCCCCCCCC(O)=O,n-aliphatic acids
+3594,CC(C)C(O)=O,other aliphatic acids
+3600,CC(C)CC(O)=O,other aliphatic acids
+3606,CCCCCC(O)=O,n-aliphatic acids
+3612,CCCCC(C)C(O)=O,other aliphatic acids
+3618,CCCCCCCC(O)=O,n-aliphatic acids
+3624,CCCCCCCCCCC(O)=O,n-aliphatic acids
+3630,OC(=O)CC1CCCC1,other aliphatic acids
+3636,CCCCCCCCCCCC(O)=O,n-aliphatic acids
+3642,CCCCCCCCCCCCC(O)=O,n-aliphatic acids
+3648,C/C=C/C(O)=O,other aliphatic acids
+3654,CCCCCCC(C)C(O)=O,other aliphatic acids
+3660,OC(=O)C=C,other aliphatic acids
+3666,CC(=C)C(O)=O,other aliphatic acids
+3672,OC(=O)c1ccccc1,aromatic carboxylic acids
+3678,Cc1ccc(cc1)C(O)=O,aromatic carboxylic acids
+3684,O=C1OC(=O)c2ccccc12,anhydrides
+3687,O=C1OC(=O)C=C1,anhydrides
+3690,COC=O,formates
+3696,CCOC=O,formates
+3702,CCCOC=O,formates
+3708,CCCCOC=O,formates
+3714,CC(C)COC=O,formates
+3720,CCCCCOC=O,formates
+3726,CCCCCCCCOC=O,formates
+3732,CCOC(C)=O,acetates
+3738,CCCOC(C)=O,acetates
+3744,CCCCOC(C)=O,acetates
+3750,CC(C)COC(C)=O,acetates
+3756,CC(C)CCOC(C)=O,acetates
+3762,CC(=O)OCC=C,acetates
+3768,CC(C)OC(C)=O,acetates
+3774,CCC(C)OC(C)=O,acetates
+3780,CC(=O)OC=C,acetates
+3786,CCC(=O)OC,propionates and butyrates
+3792,CCOC(=O)CC,propionates and butyrates
+3798,CCCOC(=O)CC,propionates and butyrates
+3804,CCCCOC(=O)CC,propionates and butyrates
+3810,CCC(=O)OC=C,propionates and butyrates
+3816,CCCC(=O)OC,propionates and butyrates
+3822,CCCC(=O)OCC,propionates and butyrates
+3828,CCCOC(=O)C(C)C,propionates and butyrates
+3834,CCCCCCCC(=O)OCC,other saturated aliphatic esters
+3840,COC(=O)C=C,unsaturated aliphatic esters
+3846,CCOC(=O)C=C,unsaturated aliphatic esters
+3852,CCCOC(=O)C=C,unsaturated aliphatic esters
+3858,CCCCOC(=O)CCCC,other saturated aliphatic esters
+3864,CCOC(=O)CC(C)C,other saturated aliphatic esters
+3870,CCCCC(=O)OC,other saturated aliphatic esters
+3876,CCOC(=O)C(C)=C,unsaturated aliphatic esters
+3882,CCCCCOC(C)=O,acetates
+3888,CCCCC(CC)COC(C)=O,acetates
+3894,CC(=O)OCc1ccccc1,aromatic esters
+3900,CC(C)COC(=O)C(C)C,propionates and butyrates
+3906,CC(C)CCOC(=O)CC(C)C,other saturated aliphatic esters
+3912,CCCCCCCC\C=C/CCCCCCCC(=O)OC,unsaturated aliphatic esters
+3918,CCCCCCOC(C)=O,acetates
+3924,O=C(OCc1ccccc1)c2ccccc2,aromatic esters
+3930,CCCCOC(=O)c1ccccc1,aromatic esters
+3936,O=C1OCCO1,organic salts
+3941,CCCCCCCOC(C)=O,acetates
+3947,CCCCCCCCOC(C)=O,acetates
+3953,CCCCCCCCCOC(C)=O,acetates
+3959,CCCCCCCCCCOC(C)=O,acetates
+3965,COC(=O)c1ccccc1O,polyfunctional esters
+3971,CCCOC(=O)c1ccccc1C(=O)OCCC,aromatic esters
+3977,CC(C)COC(=O)c1ccccc1C(=O)OCC(C)C,aromatic esters
+3983,COC(=O)c1cccc(c1)C(=O)OC,aromatic esters
+3989,COC(=O)c1ccc(cc1)C(=O)OC,aromatic esters
+3995,CCCCCCCCCCCCCCCCCC(=O)OCCCC,other saturated aliphatic esters
+4001,CCCCOC(=O)CCCCCCCCC(=O)OCCCC,other saturated aliphatic esters
+4007,CCCCOC(=O)CCC,propionates and butyrates
+4013,CCCCC(CC)COC(=O)C=C,unsaturated aliphatic esters
+4019,CC(O)=O.CC(O)=O.OCCO,acetates
+4025,CC(C)COC(=O)C(C)=C,unsaturated aliphatic esters
+4031,CCCCOC(=O)C(C)=C,unsaturated aliphatic esters
+4037,COC(=O)c1ccccc1,aromatic esters
+4043,CCOC(=O)c1ccccc1,aromatic esters
+4049,CCOC(=O)C(=O)OCC,other saturated aliphatic esters
+4055,CCOC(=O)CC(=O)OCC,other saturated aliphatic esters
+4061,CCCCCCCCCC(=O)OC,other saturated aliphatic esters
+4067,COC(=O)C1CCC(CC1)C(=O)OC,other saturated aliphatic esters
+4073,CC1CCCO1,aliphatic ethers
+4077,COC,aliphatic ethers
+4082,CCOCC,aliphatic ethers
+4087,CC(C)OC(C)C,aliphatic ethers
+4091,CCCCOCCCC,aliphatic ethers
+4096,CCC(C)OC(C)CC,aliphatic ethers
+4100,CCOC,aliphatic ethers
+4105,CCCOC,aliphatic ethers
+4110,CCCCOC(C)C,aliphatic ethers
+4115,COCC(C)C,aliphatic ethers
+4120,COC(C)C,aliphatic ethers
+4125,CCCCCCOCCCCCC,aliphatic ethers
+4130,CCCCOC,aliphatic ethers
+4135,C=COC=C,aliphatic ethers
+4139,CCCOCC,aliphatic ethers
+4144,C1OCc2ccccc12,other ethers/diethers
+4147,COc1ccc(C=CC)cc1,other ethers/diethers
+4153,C1COCCO1,other ethers/diethers
+4157,C1COOOC1,other ethers/diethers
+4162,CC(C)(C)OC(C)(C)C,aliphatic ethers
+4165,CCCCCCCCOCCCCCCCC,aliphatic ethers
+4170,CCCCCOCCCCC,aliphatic ethers
+4175,CCC(C)OC,aliphatic ethers
+4180,CCC(C)(C)OC,aliphatic ethers
+4185,CCCCCOC,aliphatic ethers
+4190,CCOC(C)(C)CC,aliphatic ethers
+4195,CCOC(C)OCC,other ethers/diethers
+4200,CC(C)COC(C)C,aliphatic ethers
+4205,CCOCC(C)C,aliphatic ethers
+4210,C1OC1COc2ccccc2,"other polyfunctional c, h, o"
+4215,CCOC(OCC)OCC,other ethers/diethers
+4220,COO,peroxides
+4225,CCOO,peroxides
+4230,CC1(C)CO1,epoxides
+4235,C1CO1,epoxides
+4240,CC1CO1,epoxides
+4245,CCOC=C,aliphatic ethers
+4251,CCCOCCC,aliphatic ethers
+4256,CCCCOC=C,aliphatic ethers
+4262,CCCCOCC,aliphatic ethers
+4267,C1CCOCC1,aliphatic ethers
+4271,C=CCOCC=C,aliphatic ethers
+4276,COCCOCCOCCOC,other ethers/diethers
+4281,COCCOC,other ethers/diethers
+4286,COCCOCCOC,other ethers/diethers
+4291,COCCOCCOCCOCCOC,other ethers/diethers
+4296,CCOCCOCCOCC,other ethers/diethers
+4301,CCCCOCCOCCOCCCC,other ethers/diethers
+4306,CCOCc1ccccc1,other ethers/diethers
+4311,COc1ccccc1,other ethers/diethers
+4317,CCOc1ccccc1,other ethers/diethers
+4323,C=CCOCC1CO1,"other polyfunctional c, h, o"
+4327,COC(C)OC,other ethers/diethers
+4332,COC=C,aliphatic ethers
+4338,CCC1CO1,epoxides
+4343,CC(C)(C)OO,peroxides
+4347,C1OCC=C1,aliphatic ethers
+4351,o1cccc1,other ethers/diethers
+4355,C1CCOC1,aliphatic ethers
+4359,o1c2ccccc2c3ccccc13,other ethers/diethers
+4363,CC(C)(C)OOC(C)(C)C,peroxides
+4367,Cc1oc2ccccc2c1,other ethers/diethers
+4371,CCC(C)OC(C)(C)C,aliphatic ethers
+4375,CC(C)COC(C)(C)C,aliphatic ethers
+4380,CC1OCCO1,other ethers/diethers
+4384,COOC,peroxides
+4389,CC1CCC(C)O1,aliphatic ethers
+4393,Cc1oc(C)cc1,other ethers/diethers
+4397,C1COCO1,other ethers/diethers
+4401,o1ccc2ccccc12,other ethers/diethers
+4405,COCCCOC,other ethers/diethers
+4410,ClC(Cl)(Cl)Cl,c1/c2 aliphatic chlorides
+4413,CCl,c1/c2 aliphatic chlorides
+4416,CCCl,c1/c2 aliphatic chlorides
+4420,ClC=C,c1/c2 aliphatic chlorides
+4425,ClC\C=C\CCl,c3 & higher aliphatic chlorides
+4429,ClC\C=C/Cl,c3 & higher aliphatic chlorides
+4433,ClC/C=C/Cl,c3 & higher aliphatic chlorides
+4437,ClCCCCCl,c3 & higher aliphatic chlorides
+4441,ClCCCCCCl,c3 & higher aliphatic chlorides
+4445,ClCCl,c1/c2 aliphatic chlorides
+4449,ClC(Cl)CC(Cl)(Cl)Cl,c3 & higher aliphatic chlorides
+4454,ClCC(Cl)C(Cl)(Cl)Cl,c3 & higher aliphatic chlorides
+4458,ClC(Cl)Cl,c1/c2 aliphatic chlorides
+4461,CC(Cl)Cl,c1/c2 aliphatic chlorides
+4466,ClCCCl,c1/c2 aliphatic chlorides
+4470,ClCC(Cl)Cl,c1/c2 aliphatic chlorides
+4474,CC(Cl)CCl,c3 & higher aliphatic chlorides
+4478,CC(Cl)(Cl)Cl,c1/c2 aliphatic chlorides
+4483,ClCC(Cl)(Cl)Cl,c1/c2 aliphatic chlorides
+4487,ClC(Cl)C(Cl)Cl,c1/c2 aliphatic chlorides
+4492,CC(C)Cl,c3 & higher aliphatic chlorides
+4496,ClCC#C,c3 & higher aliphatic chlorides
+4500,ClCC(Cl)CCl,c3 & higher aliphatic chlorides
+4504,ClCCC(Cl)(Cl)Cl,c3 & higher aliphatic chlorides
+4508,CC(C)CCl,c3 & higher aliphatic chlorides
+4512,CC(C)(C)Cl,c3 & higher aliphatic chlorides
+4516,CCC(Cl)CCl,c3 & higher aliphatic chlorides
+4520,CC(Cl)C(C)Cl,c3 & higher aliphatic chlorides
+4524,ClC=C(Cl)Cl,c1/c2 aliphatic chlorides
+4529,ClC(Cl)=C(Cl)Cl,c1/c2 aliphatic chlorides
+4534,ClCC=C,c3 & higher aliphatic chlorides
+4538,ClC1CCCCC1,c3 & higher aliphatic chlorides
+4542,ClC(Cl)=C(Cl)C(Cl)=C(Cl)Cl,c3 & higher aliphatic chlorides
+4547,ClCc1ccccc1,aromatic chlorides
+4549,Cc1cccc(Cl)c1C,aromatic chlorides
+4554,Cc1ccc(Cl)cc1C,aromatic chlorides
+4559,Clc1ccccc1,aromatic chlorides
+4564,Clc1ccccc1Cl,aromatic chlorides
+4569,Clc1cccc(Cl)c1,aromatic chlorides
+4574,Clc1ccc(Cl)cc1,aromatic chlorides
+4579,Clc1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl,aromatic chlorides
+4584,ClC(Cl)(Cl)c1ccccc1,aromatic chlorides
+4589,Cc1ccccc1Cl,aromatic chlorides
+4594,Cc1ccc(Cl)cc1,aromatic chlorides
+4599,Cc1ccc(Cl)cc1Cl,aromatic chlorides
+4604,Cl\C=C/Cl,c1/c2 aliphatic chlorides
+4609,Cl\C=C\Cl,c1/c2 aliphatic chlorides
+4614,ClC1=C(Cl)C(Cl)(Cl)C(=C1Cl)Cl,c3 & higher aliphatic chlorides
+4619,ClC(=C)C=C,c3 & higher aliphatic chlorides
+4624,CCCCl,c3 & higher aliphatic chlorides
+4628,CCCCCl,c3 & higher aliphatic chlorides
+4632,CCC(C)Cl,c3 & higher aliphatic chlorides
+4636,CCCCCCl,c3 & higher aliphatic chlorides
+4640,Clc1cccc2ccccc12,aromatic chlorides
+4645,ClC(Cl)C(Cl)(Cl)Cl,c1/c2 aliphatic chlorides
+4650,ClC(Cl)=C,c1/c2 aliphatic chlorides
+4655,Clc1ccc(Cl)c(Cl)c1,aromatic chlorides
+4660,ClC\C=C/CCl,c3 & higher aliphatic chlorides
+4664,CC(Cl)=C,c3 & higher aliphatic chlorides
+4669,ClCC(Cl)C=C,c3 & higher aliphatic chlorides
+4673,C/C(Cl)=C/CCl,c3 & higher aliphatic chlorides
+4677,ClC(Cl)c1ccccc1,aromatic chlorides
+4680,FCCl,"c, h, multihalogen compounds"
+4684,FC(F)(Cl)Cl,"c, h, multihalogen compounds"
+4688,FC(Cl)(Cl)Cl,"c, h, multihalogen compounds"
+4691,Brc1ccc(Br)cc1,"c, h, br compounds"
+4696,FC(F)Cl,"c, h, multihalogen compounds"
+4700,FC(F)(F)Cl,"c, h, multihalogen compounds"
+4704,FC(F)(F)CCl,"c, h, multihalogen compounds"
+4707,FC(F)(Cl)C(F)(F)Cl,"c, h, multihalogen compounds"
+4711,COC(F)(F)C(F)(F)F,"polyfunctional c, h, o, halide"
+4715,FC(F)(Br)C(F)(F)Br,"c, h, multihalogen compounds"
+4719,FC(F)=CCl,"c, h, multihalogen compounds"
+4723,CF,"c, h, f compounds"
+4727,FCF,"c, h, f compounds"
+4731,FC(F)F,"c, h, f compounds"
+4735,FC(F)(F)F,"c, h, f compounds"
+4739,CCF,"c, h, f compounds"
+4743,CC(F)(F)F,"c, h, f compounds"
+4747,FC(F)(F)CC(F)(F)F,"c, h, f compounds"
+4751,FC(F)=C(F)C(F)=C(F)F,"c, h, f compounds"
+4755,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)F,"c, h, f compounds"
+4759,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,"c, h, f compounds"
+4763,FC(C(F)C(F)(F)C(F)(F)F)C(F)(F)F,"c, h, f compounds"
+4767,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,"c, h, f compounds"
+4771,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,"c, h, f compounds"
+4775,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,"c, h, f compounds"
+4779,FC(F)=C,"c, h, f compounds"
+4783,FC(F)=C(F)F,"c, h, f compounds"
+4787,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,"c, h, f compounds"
+4791,FC(F)Br,"c, h, multihalogen compounds"
+4795,Fc1cccc(F)c1,"c, h, f compounds"
+4799,Fc1ccccc1F,"c, h, f compounds"
+4803,CC(F)F,"c, h, f compounds"
+4807,CBr,"c, h, br compounds"
+4812,CCBr,"c, h, br compounds"
+4817,FC(F)C(F)(F)F,"c, h, f compounds"
+4821,BrC(Br)C(Br)Br,"c, h, br compounds"
+4826,CCCBr,"c, h, br compounds"
+4831,CC(C)Br,"c, h, br compounds"
+4836,CC(Br)CBr,"c, h, br compounds"
+4841,BrCCCBr,"c, h, br compounds"
+4846,CCCCBr,"c, h, br compounds"
+4851,CCCCCCCBr,"c, h, br compounds"
+4856,CC(Br)Br,"c, h, br compounds"
+4861,BrCCBr,"c, h, br compounds"
+4866,Brc1cccc(Br)c1,"c, h, br compounds"
+4871,FC(F)(F)C(Cl)(Cl)Cl,"c, h, multihalogen compounds"
+4875,Brc1ccccc1,"c, h, br compounds"
+4880,CI,"c, h, i compounds"
+4885,CCI,"c, h, i compounds"
+4890,CCCI,"c, h, i compounds"
+4895,CC(C)I,"c, h, i compounds"
+4900,Fc1ccc(F)cc1,"c, h, f compounds"
+4904,Ic1ccccc1,"c, h, i compounds"
+4909,ICI,"c, h, i compounds"
+4914,FC(F)(F)C(F)(Cl)Cl,"c, h, multihalogen compounds"
+4918,FC(F)(F)C(Cl)Cl,"c, h, multihalogen compounds"
+4922,FC(Cl)Cl,"c, h, multihalogen compounds"
+4925,Brc1cccc2ccccc12,"c, h, br compounds"
+4930,BrC(Br)Br,"c, h, br compounds"
+4935,CN,n-aliphatic primary amines
+4940,CNC,other aliphatic amines
+4946,CCN,n-aliphatic primary amines
+4952,CCC(C)(C)N,other aliphatic amines
+4957,CCCNCCC,other aliphatic amines
+4963,CCCCN(C)C,other aliphatic amines
+4969,CCN(C)CC,other aliphatic amines
+4975,CCNCC,other aliphatic amines
+4981,CCCN,n-aliphatic primary amines
+4987,CCCCN,n-aliphatic primary amines
+4993,CCCCCN,n-aliphatic primary amines
+4999,CC(C)CN,other aliphatic amines
+5005,NC1CC1,"other amines, imines"
+5011,CC(C)CNCC(C)C,other aliphatic amines
+5017,CC(C)N,other aliphatic amines
+5023,CCCCCCCCCCCCCCN,n-aliphatic primary amines
+5029,[nH]1cccc1,"other amines, imines"
+5035,CN(CCO)CCO,polyfunctional amides/amines
+5041,NCCO,polyfunctional amides/amines
+5047,OCCNCCO,polyfunctional amides/amines
+5053,OCCN(CCO)CCO,polyfunctional amides/amines
+5059,CCC(C)N,other aliphatic amines
+5065,CC(C)(C)N,other aliphatic amines
+5070,NC1CCCCC1,"other amines, imines"
+5076,NCCCCCCN,"other amines, imines"
+5082,NCc1ccccc1,aromatic amines
+5088,C1CN2CCN1CC2,"other amines, imines"
+5093,Cc1ccccc1N,aromatic amines
+5099,Cc1cccc(N)c1,aromatic amines
+5105,Cc1ccc(N)cc1,aromatic amines
+5111,NCCNCCNCCN,"other amines, imines"
+5117,NCC=C,"other amines, imines"
+5123,NCCN,"other amines, imines"
+5129,C1CN1,"other amines, imines"
+5135,CC(C)NC(C)C,other aliphatic amines
+5141,CCCCNCCCC,other aliphatic amines
+5147,C1CCNCC1,"other amines, imines"
+5153,Nc1ccc(Nc2ccccc2)cc1,aromatic amines
+5158,c1ccc2ncccc2c1,aromatic amines
+5162,O=CNc1ccccc1,"polyfunctional c, h, o, n"
+5165,NCCN1CCNCC1,"other amines, imines"
+5170,CC(N)CN,"other amines, imines"
+5176,CCN(CC)c1ccccc1,aromatic amines
+5182,Cn1cccc1,"other amines, imines"
+5187,c1cnccn1,"other amines, imines"
+5191,N(c1ccccc1)c2ccccc2,aromatic amines
+5196,NNc1ccccc1,aromatic amines
+5198,C[N+]([O-])=O,"c, h, no2 compounds"
+5201,CC[N+]([O-])=O,"c, h, no2 compounds"
+5205,CCC[N+]([O-])=O,"c, h, no2 compounds"
+5209,CC(C)[N+]([O-])=O,"c, h, no2 compounds"
+5213,OCCC#N,polyfunctional nitriles
+5218,C1COCCN1,"polyfunctional c, h, o, n"
+5222,C1CCNC1,"other amines, imines"
+5228,CN1CCCC1,"other amines, imines"
+5233,[O-][N+](=O)C([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O,"c, h, no2 compounds"
+5235,CCCC[N+]([O-])=O,"c, h, no2 compounds"
+5239,C#N,nitriles
+5242,CC#N,nitriles
+5246,CCC#N,nitriles
+5251,C=CC#N,nitriles
+5254,CC(=C)C#N,nitriles
+5257,N#CCCC#N,nitriles
+5262,N#CCCCCC#N,nitriles
+5267,Cc1ccccc1[N+]([O-])=O,"c, h, no2 compounds"
+5271,Cc1ccc(cc1)[N+]([O-])=O,"c, h, no2 compounds"
+5275,Cc1cccc(c1)[N+]([O-])=O,"c, h, no2 compounds"
+5279,N#CCCCC#N,nitriles
+5284,CCCC#N,nitriles
+5289,CCCCC#N,nitriles
+5294,N#CCC#N,nitriles
+5297,CCCCCC#N,nitriles
+5302,CC(C)C#N,nitriles
+5305,N#Cc1ccccc1,nitriles
+5308,c1ccncc1,aromatic amines
+5312,Nc1ccccc1,aromatic amines
+5318,Cc1ccc(cc1N=C=O)N=C=O,isocyanates/diisocyanates
+5321,C1CCCNCC1,"other amines, imines"
+5327,CNc1ccccc1,aromatic amines
+5333,CN(C)c1ccccc1,aromatic amines
+5339,Cc1ccccn1,aromatic amines
+5344,CS,mercaptans
+5348,CCS,mercaptans
+5353,CCCS,mercaptans
+5358,CC(C)(C)S,mercaptans
+5361,CC(C)CS,mercaptans
+5366,CCC(C)S,mercaptans
+5369,CCCCCCS,mercaptans
+5374,CCCCCCCCCS,mercaptans
+5379,CCCCCCCCS,mercaptans
+5384,CC(C)S,mercaptans
+5387,SC1CCCCC1,mercaptans
+5390,SCc1ccccc1,mercaptans
+5393,CCSC,sulfides/thiophenes
+5399,CCCSC,sulfides/thiophenes
+5405,CSC(C)(C)C,sulfides/thiophenes
+5411,CCCSCCC,sulfides/thiophenes
+5417,CCSCC,sulfides/thiophenes
+5423,CCCCCCCCSCC,sulfides/thiophenes
+5429,CSC,sulfides/thiophenes
+5435,s1cccc1,sulfides/thiophenes
+5438,s1ccc2ccccc12,sulfides/thiophenes
+5441,Sc1sc2ccccc2n1,other polyfunctional organics
+5443,CCSSCC,sulfides/thiophenes
+5448,CCCCCCCCCCS,mercaptans
+5453,CCCCCS,mercaptans
+5458,CSSC,sulfides/thiophenes
+5463,CCCSSCCC,sulfides/thiophenes
+5468,CCc1cc(C)sc1C,sulfides/thiophenes
+5471,Cc1sc2ccccc2c1,sulfides/thiophenes
+5474,CCCCCCCCCCCCS,mercaptans
+5479,CC(C)(C)CC(C)(C)S,mercaptans
+5482,CCCCCCCS,mercaptans
+5487,C=CCSCC=C,sulfides/thiophenes
+5493,CCCCS,mercaptans
+5498,Sc1ccccc1,mercaptans
+5501,C1CCSC1,sulfides/thiophenes
+5506,CC1CC[S](=O)(=O)C1,"polyfunctional c, h, o, s"
+5508,CCC[S](=O)(=O)CCC,"polyfunctional c, h, o, s"
+5510,CCCC[S](=O)(=O)CCCC,"polyfunctional c, h, o, s"
+5512,FC(F)=O,"polyfunctional c, h, o, halide"
+5514,CC(Cl)=O,"polyfunctional c, h, o, halide"
+5516,OC(=O)CCl,"polyfunctional c, h, o, halide"
+5520,ClCC(Cl)=O,"polyfunctional c, h, o, halide"
+5522,ClC(Cl)C(Cl)=O,"polyfunctional c, h, o, halide"
+5524,ClC(=O)C(Cl)(Cl)Cl,"polyfunctional c, h, o, halide"
+5526,ClC(=O)c1ccccc1,"polyfunctional c, h, o, halide"
+5528,FC(F)(F)c1ccc(Cl)cc1,"c, h, multihalogen compounds"
+5532,FC(F)(F)c1ccc(Cl)cc1Cl,"c, h, multihalogen compounds"
+5536,Nc1ccccc1Cl,"polyfunctional c, h, n, halide, (o)"
+5541,Fc1ccccc1,"c, h, f compounds"
+5545,COCCl,"polyfunctional c, h, o, halide"
+5549,OCC(O)CCl,"polyfunctional c, h, o, halide"
+5553,OC(CCl)CCl,"polyfunctional c, h, o, halide"
+5557,Fc1c(F)c(F)c(F)c(F)c1F,"c, h, f compounds"
+5561,OCC(Cl)CCl,"polyfunctional c, h, o, halide"
+5565,ClCCOCCCl,"polyfunctional c, h, o, halide"
+5569,CSCCC=O,"polyfunctional c, h, o, s"
+5575,OC(=O)C(F)(F)F,"polyfunctional c, h, o, halide"
+5579,NCCCCCCO,polyfunctional amides/amines
+5585,OC(=O)c1ccccc1Cl,"polyfunctional c, h, o, halide"
+5590,O=C1CCCCCN1,"polyfunctional c, h, o, n"
+5595,CCCCOB(OCCCC)OCCCC,organic salts
+5597,c1ccc(cc1)P(c2ccccc2)c3ccccc3,other polyfunctional organics
+5599,[O-][N+](=O)c1ccccc1,"c, h, no2 compounds"
+5603,O=Cc1occc1,"other polyfunctional c, h, o"
+5607,CC(C)(O)C(O)=O,polyfunctional acids
+5613,COc1ccccc1[N+]([O-])=O,"polyfunctional c, h, o, n"
+5616,ClC(Cl)=O,"polyfunctional c, h, o, halide"
+5618,CC1CC(OC(C)O1)OC(C)=O,polyfunctional esters
+5622,COCC(C)OC(C)=O,polyfunctional esters
+5627,COC(C)COC(C)COC(C)=O,polyfunctional esters
+5632,COC1CCC=CO1,"other polyfunctional c, h, o"
+5636,O,other inorganics
+5638,S=[P]12S[P]3(=S)S[P](=S)(S1)S[P](=S)(S2)S3,other inorganics
+5639,Cl[SiH2]Cl,silanes/siloxanes
+5642,Cl[SiH](Cl)Cl,silanes/siloxanes
+5645,Cl[Si](Cl)(Cl)Cl,silanes/siloxanes
+5648,S=C=S,sulfides/thiophenes
+5651,CN([SiH](C)C)[Si](C)(C)C,silanes/siloxanes
+5653,C[Si](C)(C)O[Si](C)(C)C,silanes/siloxanes
+5657,C[Si]1(C)O[Si](C)(C)O[Si](C)(C)O1,silanes/siloxanes
+5661,C[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)C,silanes/siloxanes
+5665,C[Si](Cl)(Cl)C=C,silanes/siloxanes
+5667,C[Si]1(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O1,silanes/siloxanes
+5671,OO,other inorganics
+5674,O([2H])[2H],other inorganics
+5675,O=CCCCC=O,aldehydes
+5681,CCCCCCCCCCCCCCCCCCCCCCCCCCCCCC,n-alkanes
+5687,CCCCCC(=O)CC,ketones
+5693,CCCCC(=O)CCC,ketones
+5699,CCCCCCC(=O)CC,ketones
+5705,CCCCCC(=O)CCC,ketones
+5711,CC(C)CC(C)CC(=O)CC(C)C,ketones
+5717,CCCCCC(C)C(C)C,dimethylalkanes
+5723,CCCCC(C)CC(C)C,dimethylalkanes
+5729,CCCC(C)CCC(C)C,dimethylalkanes
+5735,CCC(C)CCCC(C)C,dimethylalkanes
+5741,CC(C)CCCCC(C)C,dimethylalkanes
+5747,CCc1cccc(O)c1,aromatic alcohols
+5753,Cc1cc(c(O)c(c1)C(C)(C)C)C(C)(C)C,aromatic alcohols
+5759,OCCc1ccccc1,aromatic alcohols
+5765,CC(C)CC(O)CC(C)C,other aliphatic alcohols
+5771,CCC(O)c1ccccc1,aromatic alcohols
+5777,CC(O)Cc1ccccc1,aromatic alcohols
+5783,CC(CO)c1ccccc1,aromatic alcohols
+5789,OCCCc1ccccc1,aromatic alcohols
+5795,CC(O)c1ccccc1,aromatic alcohols
+5801,CC(C)(C)CC(C)(C)c1ccc(O)cc1,aromatic alcohols
+5807,CCC(C)(C)c1ccc(O)cc1,aromatic alcohols
+5813,CC(C)(c1ccccc1)c2ccc(O)cc2,aromatic alcohols
+5819,CC\C(C)=C\C,methylalkenes
+5825,CC(C)CCC=C,methylalkenes
+5831,OCC1CCC(CO)CC1,polyols
+5837,CCCCCCC(C)=C,methylalkenes
+5843,CCCCCC(C)=C,methylalkenes
+5849,CC(C)(C)C(O)=O,other aliphatic acids
+5855,CCCCC(CC)C(O)=O,other aliphatic acids
+5861,CCCCCCC(O)=O,n-aliphatic acids
+5867,CC(C)(C)CC(O)=O,other aliphatic acids
+5873,CC(C)(C)CCC(O)=O,other aliphatic acids
+5879,OC(=O)C=Cc1ccccc1,aromatic carboxylic acids
+5885,CCC(CC)C(O)=O,other aliphatic acids
+5891,CC(C)Cc1ccc(cc1)C(C)C(O)=O,aromatic carboxylic acids
+5897,CC1=CCC(CC1)C=C,cycloalkenes
+5903,CC1=CC(=O)OC1=O,anhydrides
+5906,CCC(C)OC=O,formates
+5911,CC(C)(C)OC=O,formates
+5916,CCCCCCOC=O,formates
+5922,CCCCCCCOC=O,formates
+5928,CCC[CH]=[C]=[CH2],dialkenes
+5934,O=COC1CCCCC1,formates
+5939,CC(=O)OC(C)(C)C,acetates
+5945,COC(=O)C(C)C,propionates and butyrates
+5951,CCOC(=O)C(C)C,propionates and butyrates
+5957,CC(C)OC(=O)C=C,unsaturated aliphatic esters
+5963,O=COCc1ccccc1,aromatic esters
+5968,CC(=C)C(=O)OCC=C,unsaturated aliphatic esters
+5974,CC(=O)OC1CCCCC1,acetates
+5980,CC1COC(=O)O1,organic salts
+5985,CC([O-])=O.CC([O-])=O.CC(=O)OCC(O)CO,glycerides
+5991,CC(C)CCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCC(C)C,aromatic esters
+5997,CCOC(=O)c1ccccc1C(=O)OCC,aromatic esters
+6003,CCCCOC(=O)c1ccccc1C(=O)OCCCC,aromatic esters
+6009,COC(=O)c1ccccc1C(=O)OC,aromatic esters
+6015,CCCCCCOC(=O)CCCCC(=O)OCCCCCC,other saturated aliphatic esters
+6021,CCCCOC(=O)\C=C/C(=O)OCCCC,unsaturated aliphatic esters
+6027,CCOC(=O)\C=C/C(=O)OCC,unsaturated aliphatic esters
+6033,COC(=O)\C=C/C(=O)OC,unsaturated aliphatic esters
+6039,CCC(C)OC(=O)C=C,unsaturated aliphatic esters
+6045,CC(C)(C)C(=O)OC=C,unsaturated aliphatic esters
+6051,CCCOC(=O)c1ccccc1,aromatic esters
+6057,CC(C)COCC(C)C,aliphatic ethers
+6062,CCCCCC#C,alkynes
+6068,CCOC(C)C,aliphatic ethers
+6073,CCCCCCOCC,aliphatic ethers
+6078,C1COCOC1,other ethers/diethers
+6082,CCOCOCC,other ethers/diethers
+6087,C1CC=CO1,aliphatic ethers
+6092,CCc1ccccc1C(C)C,other alkylbenzenes
+6098,CCC(Cl)Cl,c3 & higher aliphatic chlorides
+6103,ClCCCCl,c3 & higher aliphatic chlorides
+6107,ClCC(Cl)=C,c3 & higher aliphatic chlorides
+6111,Clc1cccc(Cl)c1Cl,aromatic chlorides
+6116,Clc1cc(Cl)cc(Cl)c1,aromatic chlorides
+6121,FC(F)(Cl)C(F)(F)C(F)(F)Cl,"c, h, multihalogen compounds"
+6125,FC1(F)C(F)(F)C(F)(Cl)C1(F)Cl,"c, h, multihalogen compounds"
+6129,FC(F)(F)C=C,"c, h, f compounds"
+6133,FCC(F)F,"c, h, f compounds"
+6137,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,"c, h, f compounds"
+6141,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,"c, h, f compounds"
+6145,FC(F)(F)C1(F)C(F)(F)C(F)(F)C(F)(F)C1(F)F,"c, h, f compounds"
+6149,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,"c, h, f compounds"
+6153,FC(F)CC(F)(F)F,"c, h, f compounds"
+6157,FCC(F)(F)C(F)F,"c, h, f compounds"
+6161,CC(F)(F)C(F)(F)F,"c, h, f compounds"
+6165,FC(C(F)(F)F)C(F)(F)F,"c, h, f compounds"
+6169,FC(F)C(F)C(F)(F)F,"c, h, f compounds"
+6173,FC(F)(F)c1ccccc1,"c, h, f compounds"
+6177,BrCBr,"c, h, br compounds"
+6182,CCC(C)Br,"c, h, br compounds"
+6187,ClCBr,"c, h, multihalogen compounds"
+6191,FC(F)(F)C(Cl)Br,"c, h, multihalogen compounds"
+6194,ClC(Cl)(Cl)Br,"c, h, multihalogen compounds"
+6199,FCCF,"c, h, f compounds"
+6203,FC(F)C(F)(Cl)Cl,"c, h, multihalogen compounds"
+6207,FC(Cl)(Cl)C(Cl)(Cl)Cl,"c, h, multihalogen compounds"
+6211,FC(Cl)C(F)(F)Cl,"c, h, multihalogen compounds"
+6215,FC(Cl)C(F)(F)F,"c, h, multihalogen compounds"
+6219,CC(F)(Cl)Cl,"c, h, multihalogen compounds"
+6223,FCC(F)(F)F,"c, h, f compounds"
+6227,FC(F)(F)C(=O)C(F)(F)F,"polyfunctional c, h, o, halide"
+6230,FC(F)(F)C(F)(F)C(F)(F)F,"c, h, f compounds"
+6234,FC(=C(F)C(F)(F)F)C(F)(F)F,"c, h, f compounds"
+6238,FC1(F)C(F)(F)C(F)(F)C1(F)F,"c, h, f compounds"
+6242,FC(F)(Cl)C(F)(Cl)Cl,"c, h, multihalogen compounds"
+6246,FC(Cl)(Cl)C(F)(Cl)Cl,"c, h, multihalogen compounds"
+6250,FC(F)(Cl)C(Cl)(Cl)Cl,"c, h, multihalogen compounds"
+6254,FC(F)C(F)F,"c, h, f compounds"
+6258,Cc1ccc(Br)cc1,"c, h, br compounds"
+6263,CCCCCCI,"c, h, i compounds"
+6268,CCCCI,"c, h, i compounds"
+6273,FC(F)(Cl)Br,"c, h, multihalogen compounds"
+6277,FC(F)(F)Br,"c, h, multihalogen compounds"
+6281,FC(F)(Br)Br,"c, h, multihalogen compounds"
+6285,FC(F)=C(F)Br,"c, h, multihalogen compounds"
+6289,FC(F)=C(F)Cl,"c, h, multihalogen compounds"
+6293,FC(F)(F)C(F)(F)Cl,"c, h, multihalogen compounds"
+6297,BrC=C,"c, h, br compounds"
+6302,CC(F)(F)Cl,"c, h, multihalogen compounds"
+6306,FC=C,"c, h, f compounds"
+6310,CCCCCCN,n-aliphatic primary amines
+6316,CCCCCCCN,n-aliphatic primary amines
+6322,CCCCCCCCN,n-aliphatic primary amines
+6328,CCCCCCCCCN,n-aliphatic primary amines
+6334,CCCCCCCCCCN,n-aliphatic primary amines
+6340,CCCCCCCCCCCCN,n-aliphatic primary amines
+6346,CCNCC(C)=C,"other amines, imines"
+6352,C=CCN(CC=C)CC=C,"other amines, imines"
+6358,NCCNCCN,"other amines, imines"
+6364,C=CCC#N,nitriles
+6369,CCCCN=C=O,isocyanates/diisocyanates
+6372,O=C=NC1CCCCC1,isocyanates/diisocyanates
+6375,CCc1ccccc1N,aromatic amines
+6381,Nc1ccccc1N,aromatic amines
+6387,CC1CN1,"other amines, imines"
+6393,Nc1cccc(N)c1,aromatic amines
+6399,CC(C)(C)NCCNC(C)(C)C,"other amines, imines"
+6405,NC1CCCC1,"other amines, imines"
+6411,C1CCC(CC1)NC2CCCCC2,"other amines, imines"
+6417,C=CCNCC=C,"other amines, imines"
+6423,Nc1ccc(N)cc1,aromatic amines
+6429,C1CNCCN1,"other amines, imines"
+6435,c1ccnnc1,"other amines, imines"
+6439,c1cncnc1,"other amines, imines"
+6443,[nH]1cccn1,"other amines, imines"
+6447,N#C/C=C/C#N,nitriles
+6450,[nH]1ccc2ccccc12,"other amines, imines"
+6455,c1ccc2cnccc2c1,aromatic amines
+6459,[nH]1c2ccccc2c3ccccc13,aromatic amines
+6463,N#Cc1cccnc1,nitriles
+6466,CCc1cccc(CC)c1N,aromatic amines
+6472,CN=C=O,isocyanates/diisocyanates
+6475,Cc1cccc(C)n1,aromatic amines
+6479,Cc1cccnc1,aromatic amines
+6484,CC(CCC#N)C#N,nitriles
+6487,Cc1ccncc1,aromatic amines
+6492,O=C=NCCCCCCN=C=O,isocyanates/diisocyanates
+6495,C1CS1,sulfides/thiophenes
+6500,CCCCSC,sulfides/thiophenes
+6506,CCSC(C)(C)C,sulfides/thiophenes
+6512,C1CSC1,sulfides/thiophenes
+6517,s1c2ccccc2c3ccccc13,sulfides/thiophenes
+6520,Cc1sccc1,sulfides/thiophenes
+6523,Cc1cscc1,sulfides/thiophenes
+6526,CC1(C)C2CCC1(C)C(=O)C2,ketones
+6532,CNC=O,polyfunctional amides/amines
+6535,CC(=O)CC(C)(C)O,"other polyfunctional c, h, o"
+6541,OCc1occc1,"other polyfunctional c, h, o"
+6545,CN(C)C(C)=O,polyfunctional amides/amines
+6549,COc1ccc(O)cc1,"other polyfunctional c, h, o"
+6555,COCCO,"other polyfunctional c, h, o"
+6560,CCCCOCCO,"other polyfunctional c, h, o"
+6565,COCCOCCO,"other polyfunctional c, h, o"
+6570,CCOCCOCCO,"other polyfunctional c, h, o"
+6575,CC(O)OCCN,polyfunctional amides/amines
+6580,CCC(Cl)C([O-])=O,"polyfunctional c, h, o, halide"
+6582,CC=NO,"polyfunctional c, h, o, n"
+6585,FC(F)OCC(F)(F)F,"polyfunctional c, h, o, halide"
+6589,CC(=C)C(=O)OCCO,polyfunctional esters
+6595,COC(=O)C(C)O,polyfunctional esters
+6601,NC(=O)c1ccccc1,polyfunctional amides/amines
+6606,OCC(=O)c1ccccc1,"other polyfunctional c, h, o"
+6612,CCOc1ccc(N)cc1,"polyfunctional c, h, o, n"
+6618,CC(=O)CO,"other polyfunctional c, h, o"
+6624,Oc1ccccc1Cl,"polyfunctional c, h, o, halide"
+6629,Oc1cccc(Cl)c1,"polyfunctional c, h, o, halide"
+6634,Oc1ccc(Cl)cc1,"polyfunctional c, h, o, halide"
+6639,Oc1c(F)c(F)c(F)c(F)c1F,"polyfunctional c, h, o, halide"
+6643,CC(C)OCC(C)O,"other polyfunctional c, h, o"
+6648,OCCCl,"polyfunctional c, h, o, halide"
+6652,ClC(=O)c1cccc(c1)C(Cl)=O,"polyfunctional c, h, o, halide"
+6654,O=CN1CCOCC1,"polyfunctional c, h, o, n"
+6657,C[Si](C)(C)O[Si](C)(C)O[Si](C)(C)C,silanes/siloxanes
+6661,C[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)C,silanes/siloxanes
+6665,CC[Si](CC)(CC)CC,silanes/siloxanes
+6668,C[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)C,silanes/siloxanes
+6672,CCCCCC(=O)CCCCC,ketones
+6678,CC(=O)C(C)=O,ketones
+6684,CC(=O)C1CCCCC1,ketones
+6690,O=C1CCCCC1C2=CCCCC2,ketones
+6696,CC1CCC(=O)C1,ketones
+6702,CC(=O)C=O,"other polyfunctional c, h, o"
+6708,C/C=C/C(C)=O,ketones
+6714,CC(=O)C=C,ketones
+6720,CC1=CCCC1=O,ketones
+6726,CC(=C)CC(C)=O,ketones
+6732,CCC(C)CCCCCO,other aliphatic alcohols
+6738,CCCCC(CC)CCO,other aliphatic alcohols
+6744,CC(C)c1ccc(C)cc1O,aromatic alcohols
+6750,CC(C)c1ccc(O)cc1C,aromatic alcohols
+6756,OCC1CCC=CC1,cycloaliphatic alcohols
+6762,CCCCCCCCCCCCCCCCCCCCCCO,n-alcohols
+6768,OC1CCCC1,cycloaliphatic alcohols
+6774,CC(C)(C)c1ccccc1O,aromatic alcohols
+6780,CC(C)(C)c1cccc(O)c1,aromatic alcohols
+6786,CC(C)c1ccccc1O,aromatic alcohols
+6792,CC(C)(C)c1cccc(c1O)C(C)(C)C,aromatic alcohols
+6798,CC(C)CCCCC=C,methylalkenes
+6804,Cc1cccc(c1)C(O)=O,aromatic carboxylic acids
+6810,CC(C)CCCCCC=C,methylalkenes
+6816,OC(=O)C1CC1,other aliphatic acids
+6822,CC(C)C(=O)OC(=O)C(C)C,anhydrides
+6826,CCC(=C)OC(C)=O,acetates
+6832,CCCCC(CC)COC(=O)c1ccc(cc1)C(=O)OCC(CC)CCCC,aromatic esters
+6838,O=C1OCc2ccccc12,aromatic esters
+6844,C=CCOC(=O)C=C,unsaturated aliphatic esters
+6850,CCCCC/C=C\C\C=C/CCCCCCCC(=O)OC,unsaturated aliphatic esters
+6856,CC\C=C/C/C=C\C\C=C/CCCCCCCC(=O)OC,unsaturated aliphatic esters
+6862,CCCCCOC(=O)CCC,propionates and butyrates
+6868,CCCC(=O)OCCC(C)C,propionates and butyrates
+6874,CC(=O)OC(OC(C)=O)C=C,acetates
+6880,CCCCCCCC(=O)OC,other saturated aliphatic esters
+6886,CCCCCCCCCC(=O)OCC,other saturated aliphatic esters
+6892,CCCCCCCCCCCC(=O)OCC,other saturated aliphatic esters
+6898,O=C1OCC=C1,unsaturated aliphatic esters
+6904,COC(=O)CCCC(=O)OC,other saturated aliphatic esters
+6910,CCCOC(=O)CCC(=O)OCCC,other saturated aliphatic esters
+6916,CCCCOC(=O)CCC(=O)OCCCC,other saturated aliphatic esters
+6922,COC(=O)C(=O)OC,other saturated aliphatic esters
+6928,COC(=O)\C=C\C,unsaturated aliphatic esters
+6934,CC(C)OC=O,formates
+6939,CCCCCC(=O)OC,other saturated aliphatic esters
+6945,CCCCCCCCCCCCCCOC(=O)C(C)=C,unsaturated aliphatic esters
+6951,CCCCC(CC)COC(=O)CCCCC(=O)OCC(CC)CCCC,other saturated aliphatic esters
+6957,CC(C)(C([O-])=O)C([O-])=O,other saturated aliphatic esters
+6963,COCOCOCOC,other ethers/diethers
+6968,COCOCOCOCOC,other ethers/diethers
+6973,COCOCOC,other ethers/diethers
+6978,COCOCOCOCOCOC,other ethers/diethers
+6983,CCc1cc(CC)cc(CC)c1,other alkylbenzenes
+6989,FC(F)(F)I,"c, h, multihalogen compounds"
+6993,COC(F)F,"polyfunctional c, h, o, halide"
+6997,FC(F)OC(F)(F)F,"polyfunctional c, h, o, halide"
+7000,CC(F)(F)CC(F)(F)F,"c, h, f compounds"
+7004,FC(=C)C(F)(F)F,"c, h, f compounds"
+7008,F\C=C\C(F)(F)F,"c, h, f compounds"
+7012,CC(F)(F)CC(C)(F)F,"c, h, f compounds"
+7016,FC(F)(F)/C=C/Cl,"c, h, multihalogen compounds"
+7020,CC(F)(Cl)C(F)(F)F,"c, h, multihalogen compounds"
+7024,FC(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,"c, h, f compounds"
+7028,N#CC1CC1,nitriles
+7031,NCCCCCN,"other amines, imines"
+7037,CCCCCC(N)=O,polyfunctional amides/amines
+7041,Cc1ccc(N)c(C)c1,aromatic amines
+7047,Cc1cc(C)cc(c1)[N+]([O-])=O,"c, h, no2 compounds"
+7051,CN(C)CCCN,"other amines, imines"
+7057,CCCCCc1cccc2ccccc12,naphthalenes
+7063,Cc1cccc2cccnc12,aromatic amines
+7067,CCCCCCCCN(CCCCCCCC)CCCCCCCC,other aliphatic amines
+7073,CN1CCCCC1,"other amines, imines"
+7078,[nH]1ccnc1,"other amines, imines"
+7082,CCCCCNCCCCC,other aliphatic amines
+7088,CCCCCN(CCCCC)CCCCC,other aliphatic amines
+7094,CCCCCCCCCCCN,n-aliphatic primary amines
+7100,CCCCCCCCNCCCCCCCC,other aliphatic amines
+7106,CN(C)CCN(C)C,"other amines, imines"
+7112,CCN(CCO)CCO,polyfunctional amides/amines
+7118,Nc1ccccc1c2ccccc2,aromatic amines
+7124,CN(C)CCCN(C)C,"other amines, imines"
+7130,c1cnncn1,"other amines, imines"
+7134,c1ncncn1,"other amines, imines"
+7138,Cn1ccnc1,"other amines, imines"
+7141,CN(C)Cc1ccccc1,aromatic amines
+7147,CN(C)C1CCCCC1,"other amines, imines"
+7153,c1ccc2nc3ccccc3cc2c1,aromatic amines
+7157,NCCCN,"other amines, imines"
+7163,Nc1ccc(cc1)c2ccc(N)cc2,aromatic amines
+7169,CCNc1ccccc1,aromatic amines
+7175,CC(C)(C)SC(C)(C)C,sulfides/thiophenes
+7179,CC1CCCS1,sulfides/thiophenes
+7184,CCCC(C)S,mercaptans
+7187,CSC(C)C,sulfides/thiophenes
+7193,N1c2ccccc2Sc3ccccc13,other polyfunctional organics
+7197,CCC1CCCS1,sulfides/thiophenes
+7202,CCc1sccc1,sulfides/thiophenes
+7205,CCCc1sccc1,sulfides/thiophenes
+7208,Cc1sc(C)cc1,sulfides/thiophenes
+7211,CCSSC,sulfides/thiophenes
+7216,CCCSSCC,sulfides/thiophenes
+7221,CSc1ccccc1,sulfides/thiophenes
+7227,CCCCSCCCC,sulfides/thiophenes
+7233,CC(C)CCSCCC(C)C,sulfides/thiophenes
+7239,S(Sc1ccccc1)c2ccccc2,sulfides/thiophenes
+7243,CCCSCC,sulfides/thiophenes
+7249,CCCCCSC,sulfides/thiophenes
+7255,Cc1sc(C)c(C)c1,sulfides/thiophenes
+7258,CC(C)SC(C)C,sulfides/thiophenes
+7262,Cc1sccc1C,sulfides/thiophenes
+7265,Cc1cscc1C,sulfides/thiophenes
+7268,Cc1ccc2scc(C)c2c1,sulfides/thiophenes
+7271,CCSSC(C)(C)C,sulfides/thiophenes
+7275,CCCCSSCCCC,sulfides/thiophenes
+7280,CCSC(C)C,sulfides/thiophenes
+7286,CCCCSCC,sulfides/thiophenes
+7292,CCCSC(C)C,sulfides/thiophenes
+7298,CCc1cscc1,sulfides/thiophenes
+7301,CCC(C)(C)S,mercaptans
+7304,CCCCC(C)S,mercaptans
+7307,CC(C)CCS,mercaptans
+7312,CCCCC(CC)COCCO,"other polyfunctional c, h, o"
+7317,OC(=O)C(Cl)Cl,"polyfunctional c, h, o, halide"
+7322,COC(C)COC(C)CO,"other polyfunctional c, h, o"
+7327,CC(O)COC(C)(C)C,"other polyfunctional c, h, o"
+7332,COC(C)COC(C)COC(C)CO,"other polyfunctional c, h, o"
+7337,CCCOCCOCCO,"other polyfunctional c, h, o"
+7342,Nc1ccc(Cl)cc1,"polyfunctional c, h, n, halide, (o)"
+7347,CCCCOCCOCCOCCO,"other polyfunctional c, h, o"
+7352,CCOCCOCCOCCO,"other polyfunctional c, h, o"
+7357,CC(O)COCC=C,"other polyfunctional c, h, o"
+7362,OCC1CO1,"other polyfunctional c, h, o"
+7367,CCCCCCOCCO,"other polyfunctional c, h, o"
+7372,CCCCCCOCCOCCO,"other polyfunctional c, h, o"
+7377,CCCOC(C)COC(C)CO,"other polyfunctional c, h, o"
+7382,CCCOCC(C)O,"other polyfunctional c, h, o"
+7387,CCCCOCCOCCOC(C)=O,polyfunctional esters
+7392,N#CCc1ccccc1,nitriles
+7397,CCN(O)CC,polyfunctional amides/amines
+7401,OCCO.O[N+]([O-])=O.O[N+]([O-])=O,organic salts
+7404,CCO[S](=O)OCC,organic salts
+7406,FC(F)=C(F)OC(F)(F)C(F)(F)F,"polyfunctional c, h, o, halide"
+7409,FC(F)=C(F)OC(F)(F)F,"polyfunctional c, h, o, halide"
+7412,CCOCC(C)O,"other polyfunctional c, h, o"
+7417,COC(=O)CO,polyfunctional esters
+7423,CC(=C)C(=O)OC(C)(C)C,unsaturated aliphatic esters
+7429,CCCCCCCCSCCO,"polyfunctional c, h, o, s"
+7435,Nc1cccc(c1)C(F)(F)F,"polyfunctional c, h, n, halide, (o)"
+7439,CCCCOC(=O)CC(C)O,polyfunctional esters
+7445,Cl[Sn](Cl)(Cl)Cl,other inorganics
+7446,CCO[Si](CCCN)(OCC)OCC,silanes/siloxanes
+7449,C[Si]1(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O1,silanes/siloxanes
+7453,C[SiH2]Cl,silanes/siloxanes
+7455,C[SiH](Cl)Cl,silanes/siloxanes
+7457,C[Si](Cl)(Cl)Cl,silanes/siloxanes
+7459,Cl[Si](Cl)(Cl)C=C,silanes/siloxanes
+7461,CCO[Si](CCC#N)(OCC)OCC,silanes/siloxanes
+7463,COCCOC([SiH3])=C(OCCOC)OCCOC,silanes/siloxanes
+7465,CO[Si]([O-])([O-])[O-],silanes/siloxanes
+7467,CO[Si](CCCCl)(OC)OC,silanes/siloxanes
+7468,ClCCC[Si](Cl)(Cl)Cl,silanes/siloxanes
+7469,C[Si](C)(Cl)CCCCl,silanes/siloxanes
+7470,CCO[Si](C)(CCCOCC1CO1)OCC,silanes/siloxanes
+7472,[SiH3]Cl,silanes/siloxanes
+7475,C[Si](Cl)(Cl)CCC(F)(F)F,silanes/siloxanes
+7477,C[SiH3],silanes/siloxanes
+7481,C[SiH2]C,silanes/siloxanes
+7485,C[SiH](C)C,silanes/siloxanes
+7489,C[SiH](C)Cl,silanes/siloxanes
+7491,C[Si](C)(C)Cl,silanes/siloxanes
+7493,C[Si](C)(Cl)Cl,silanes/siloxanes
+7495,C[Si]1(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O1,silanes/siloxanes
+7499,C[Si]1(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O1,silanes/siloxanes
+7503,Cl[Si](Cl)(c1ccccc1)c2ccccc2,silanes/siloxanes
+7505,CC[Si](Cl)(Cl)Cl,silanes/siloxanes
+7507,CC[Si](Cl)(Cl)CC,silanes/siloxanes
+7509,Cl[Si](Cl)(Cl)O[Si](Cl)(Cl)Cl,silanes/siloxanes
+7511,[SiH3][SiH2][SiH3],silanes/siloxanes
+7515,COc1cc(ccc1O)C(C)=O,"other polyfunctional c, h, o"
+7521,COc1cc(C=O)ccc1O,"other polyfunctional c, h, o"
+7526,COc1ccccc1O,"other polyfunctional c, h, o"
+7532,CCCOCCO,"other polyfunctional c, h, o"
+7537,CCCCOCCOCCO,"other polyfunctional c, h, o"
+7542,Nc1cccc(Cl)c1,"polyfunctional c, h, n, halide, (o)"
+7547,[O-][N+](=O)c1cc(ccc1Cl)C(F)(F)F,"polyfunctional c, h, n, halide, (o)"
+7550,OC(=O)CN(CCN(CC(O)=O)CC(O)=O)CC(O)=O,polyfunctional amides/amines
+7556,[O-][N+](=O)c1cccc(c1)C(F)(F)F,"polyfunctional c, h, n, halide, (o)"
+7559,ClC(Cl)(Cl)C=O,"polyfunctional c, h, o, halide"
+7564,OC(=O)C(Cl)(Cl)Cl,"polyfunctional c, h, o, halide"
+7569,ClCC=O,"polyfunctional c, h, o, halide"
+7573,ClC(Cl)C=O,"polyfunctional c, h, o, halide"
+7578,[O-][N+](=O)c1ccc(Cl)c(c1)[N+]([O-])=O,"polyfunctional c, h, n, halide, (o)"
+7581,CCOC(Cl)=O,"polyfunctional c, h, o, halide"
+7583,COCC(O)=O,polyfunctional acids
+7588,COC(Cl)=O,"polyfunctional c, h, o, halide"
+7590,Clc1sc(Cl)c(Cl)c1Cl,other polyfunctional organics
+7592,Nc1ccc(Cl)c(Cl)c1,"polyfunctional c, h, n, halide, (o)"
+7597,[O-][N+](=O)c1ccc(Cl)c(Cl)c1,"polyfunctional c, h, n, halide, (o)"
+7600,CCO[P](=O)(OCC)OCC,organic salts
+7602,CO[P](=O)(OC)OC,organic salts
+7604,ON=C1CCCCC1,"polyfunctional c, h, o, n"
+7607,NC(Cl)=O,"polyfunctional c, h, n, halide, (o)"
+7608,CO[Si](OC)(OC)C=C,silanes/siloxanes
+7611,CO[SiH](OC)OC,silanes/siloxanes
+7614,CO[Si](C)(C)OC,silanes/siloxanes
+7617,Cl[Si](Cl)(Cl)c1ccccc1,silanes/siloxanes
+7619,C[Si](Cl)(Cl)c1ccccc1,silanes/siloxanes
+7621,C[Si](C)(C)O,silanes/siloxanes
+7624,C[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)C,silanes/siloxanes
+7628,C[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)C,silanes/siloxanes
+7632,CC(=O)C(O)=O,polyfunctional acids
+7638,Cc1ccccc1O[P](=O)(Oc2ccccc2C)Oc3ccccc3C,organic salts
+7640,O=[P](Oc1ccccc1)(Oc2ccccc2)Oc3ccccc3,organic salts
+7642,ClCOCCl,"polyfunctional c, h, o, halide"
+7644,NCCCO,polyfunctional amides/amines
+7650,CC(O)CN,polyfunctional amides/amines
+7656,COC(=O)CCl,"polyfunctional c, h, o, halide"
+7658,o1ccnc1,"polyfunctional c, h, o, n"
+7662,CC(=O)Nc1ccccc1,"polyfunctional c, h, o, n"
+7665,Oc1cccc2cccnc12,"polyfunctional c, h, o, n"
+7669,CO[S](=O)(=O)OC,organic salts
+7670,CCO[S](=O)(=O)OCC,organic salts
+7671,CCOC(=O)C(C)O,polyfunctional esters
+7677,CCOCCOC(C)=O,polyfunctional esters
+7682,CCOCCOCCOC(C)=O,polyfunctional esters
+7687,COC(=O)CC(C)=O,polyfunctional esters
+7693,CCOC(=O)CC(C)=O,polyfunctional esters
+7699,COC(=O)CC#N,"polyfunctional c, h, o, n"
+7703,CCOC(=O)CC#N,"polyfunctional c, h, o, n"
+7707,COCCC#N,polyfunctional nitriles
+7712,o1cccn1,"polyfunctional c, h, o, n"
+7715,ClC(=O)c1ccc(cc1)C(Cl)=O,"polyfunctional c, h, o, halide"
+7717,OC(=O)C(F)(F)C(F)(F)C(F)(F)F,"polyfunctional c, h, o, halide"
+7721,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,"polyfunctional c, h, o, halide"
+7725,CC(O)CCl,"polyfunctional c, h, o, halide"
+7729,[SiH3][SiH2][SiH2][SiH3],silanes/siloxanes
+7733,C[SiH](C)O[Si](C)(C)C,silanes/siloxanes
+7736,Cl[SiH](Cl)[Si](Cl)(Cl)Cl,silanes/siloxanes
+7739,CC[Si](Cl)(CC)CC,silanes/siloxanes
+7741,CC[SiH](CC)CC,silanes/siloxanes
+7745,C=C[Si](C=C)(C=C)C=C,silanes/siloxanes
+7748,CC[Si](C)(C)C,silanes/siloxanes
+7751,C[Si](C)(C)[Si](C)(C)C,silanes/siloxanes
+7754,CC(C)(C)NC=O,polyfunctional amides/amines
+7757,CNC(C)=O,polyfunctional amides/amines
+7761,OCCSCCO,"polyfunctional c, h, o, s"
+7767,SC(S)COCC(S)S,"polyfunctional c, h, o, s"
+7771,OCCS,"polyfunctional c, h, o, s"
+7776,CCSC(C)O,"polyfunctional c, h, o, s"
+7782,SCCS,mercaptans
+7787,CC(C)(O)CN,polyfunctional amides/amines
+7793,CC(O)CNCC(C)O,polyfunctional amides/amines
+7799,OCCN1CCNCC1,"polyfunctional c, h, o, n"
+7804,CCOCCC(=O)OCC,polyfunctional esters
+7809,ClCCOCOCCCl,"polyfunctional c, h, o, halide"
+7813,CC(=C)OC(C)=O,acetates
+7819,CCCCCOCCO,"other polyfunctional c, h, o"
+7824,OCCCCl,"polyfunctional c, h, o, halide"
+7828,NC(=O)C(F)(F)F,other polyfunctional organics
+7831,COCC(C)=O,"other polyfunctional c, h, o"
+7836,CC(C)(CO)C(=O)OC(=O)C(C)(C)CO,polyfunctional esters
+7842,COC(=O)c1ccc(C)cc1,aromatic esters
+7848,CC(=O)Oc1ccccc1,acetates
+7854,CCCCC(CC)C(O)=O.CCCCC(CC)C(O)=O.OCCOCCOCCO,polyfunctional esters
+7859,COB(OC)OC,organic salts
+7861,CC(=O)CC(=O)OC(C)(C)C,polyfunctional esters
+7867,CNC(=O)NC,polyfunctional amides/amines
+7870,NCCN1CCOCC1,"polyfunctional c, h, o, n"
+7873,CCN1CCOCC1,"polyfunctional c, h, o, n"
+7876,COC(F)(F)C(F)(F)C(F)(F)F,"polyfunctional c, h, o, halide"
+7880,CCC(O)=O.COCC(C)O,polyfunctional esters
+7885,CCOC(=O)CCC(C)=O,polyfunctional esters
+7891,OCCN1CCOCC1,"polyfunctional c, h, o, n"
+7894,FC(F)(F)[S](F)(F)(F)(F)F,other polyfunctional organics
+7896,FC(F)(F)SC(F)(F)F,other polyfunctional organics
+7899,CC(O)C(C)=O,"other polyfunctional c, h, o"
+7905,CN1CCN(C)C1=O,"polyfunctional c, h, o, n"
+7908,CCN1CCCC1=O,"polyfunctional c, h, o, n"
+7911,CCOC(=O)Oc1ccccc1,organic salts
+7915,CCCCO[P](=O)(OCCCC)OCCCC,organic salts
+7917,CC(C)(N)CO,polyfunctional amides/amines
+7922,COc1ccccc1N,"polyfunctional c, h, o, n"
+7928,CC(C)(O)C(N)=O,polyfunctional amides/amines
+7933,COC(=O)C(C)(C)O,polyfunctional esters
+7939,COC(=O)C(C)(C)OC,polyfunctional esters
+7944,COc1cccc(OC)c1O,"other polyfunctional c, h, o"
+7950,CN(C)N=O,"polyfunctional c, h, o, n"
+7952,COc1cc(\C=C\C)ccc1O,"other polyfunctional c, h, o"
+7958,Cc1oc(C=O)cc1,"other polyfunctional c, h, o"
+7962,COc1ccc(C)cc1O,"other polyfunctional c, h, o"
+7968,O=C(Oc1ccccc1)Oc2ccccc2,organic salts
+7972,CCCC(C)=NO,"polyfunctional c, h, o, n"
+7975,CC(=O)OCC(F)F,"polyfunctional c, h, o, halide"
+7979,CCC(=O)CO,"other polyfunctional c, h, o"
+7985,CCCCNC(C)O,polyfunctional amides/amines
+7991,CCNC(C)O,polyfunctional amides/amines
+7997,O=CN1CCCCC1,"polyfunctional c, h, o, n"
+8000,COc1ccc(N)cc1,"polyfunctional c, h, o, n"
+8006,CN(C)C(C)(C)CO,polyfunctional amides/amines
+8012,COC(=O)Oc1ccccc1,organic salts
+8016,FC(F)(F)C1(F)OC1(F)F,"polyfunctional c, h, o, halide"
+8019,FC(F)(F)N1C(F)(F)C(F)(F)OC(F)(F)C1(F)F,"polyfunctional c, h, n, halide, (o)"
+8021,CC1CCCC1,alkylcyclopentanes
+8027,CCC1CCCC1,alkylcyclopentanes
+8033,CCCC1CCCC1,alkylcyclopentanes
+8039,CCCCC1CCCC1,alkylcyclopentanes
+8045,CCC\C=C/C,"2,3,4-alkenes"
+8051,CCC/C=C/C,"2,3,4-alkenes"
+8057,CCCC\C=C/C,"2,3,4-alkenes"
+8063,CCCC/C=C/C,"2,3,4-alkenes"
+8069,CCCCC/C=C/C,"2,3,4-alkenes"
+8075,C\C=C/C=C,dialkenes
+8081,C/C=C/C=C,dialkenes
+8087,CCCCCCCc1ccccc1,n-alkylbenzenes
+8093,C1CCC(CC1)c2ccccc2,other monoaromatics
+8099,CCCCCCCCCc1ccccc1,n-alkylbenzenes
+8105,C1CC2CCC1C2,other hydrocarbon rings
+8111,CC(C)=CC(C)=O,ketones
+8117,O=C(c1ccccc1)c2ccccc2,ketones
+8121,Oc1ccccc1,aromatic alcohols
+8127,CCC(O)CO,polyols
+8133,CC(O)CCO,polyols
+8139,OCC(O)CO,polyols
+8145,CC(O)C(C)O,polyols
+8151,Oc1cccc(O)c1O,polyols
+8157,CC(=O)OC(C)=O,anhydrides
+8162,CCC(=O)OC(=O)CC,anhydrides
+8167,CCCC(=O)OC(=O)CCC,anhydrides
+8172,COC(C)=O,acetates
+8178,CCCCOC(=O)C=C,unsaturated aliphatic esters
+8184,COC(=O)C(C)=C,unsaturated aliphatic esters
+8190,CCOC(=O)OCC,organic salts
+8195,COC(C)(C)C,aliphatic ethers
+8200,COCOC,other ethers/diethers
+8205,O(c1ccccc1)c2ccccc2,other ethers/diethers
+8209,CC(C)Oc1cccc(C)c1,other ethers/diethers
+8214,FC(F)=C(F)C(F)(F)F,"c, h, f compounds"
+8218,CN(C)C,other aliphatic amines
+8224,CCN(CC)CC,other aliphatic amines
+8230,Cc1ccc(N)cc1N,aromatic amines
+8236,Cc1ccc2ccccc2n1,aromatic amines
+8240,O=[S]1(=O)CCCC1,"polyfunctional c, h, o, s"
+8242,CN(C)C=O,polyfunctional amides/amines
+8246,ClCC1CO1,"polyfunctional c, h, o, halide"
+8249,[SiH3][SiH3],silanes/siloxanes
+8253,CC(O)CC(C)O,polyols
+8259,CCOC(=O)CCC(=O)OCC,other saturated aliphatic esters
+8265,CC(OC(C)=O)OC(C)=O,acetates
+8271,COC(=O)OC,organic salts
+8276,CCCCN(CCCC)CCCC,other aliphatic amines
+8282,CCCN(CCC)CCC,other aliphatic amines
+8288,O=C=Nc1ccccc1,isocyanates/diisocyanates
+8291,CC(C)C(C)(C)C(C)(C)C(C)(C)S,mercaptans
+8294,CCCCCCC(C)(C)S,mercaptans
+8297,CC(N)=O,polyfunctional amides/amines
+8301,CCOCCO,"other polyfunctional c, h, o"
+8306,O=C1CCC(=O)N1,"polyfunctional c, h, o, n"
+8309,CC(C)c1cc(C)cc(O)c1,aromatic alcohols
+8315,COC(=O)CCC(=O)OC,other saturated aliphatic esters
+8321,Cc1c(N)cccc1N,aromatic amines
+8327,CCC(O)(CC)CN,polyfunctional amides/amines
+8339,CCCCOCCOC(C)=O,polyfunctional esters
